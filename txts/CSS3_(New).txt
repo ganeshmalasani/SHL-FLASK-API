@@ -1,0 +1,93 @@
+Title: CSS3 (New)
+URL: https://www.shl.com/solutions/products/product-catalog/view/css3-new/
+
+Remote Testing: Yes
+Adaptive/IRT: No
+Test Type: K
+Languages: English (USA),
+Job Levels: Mid-Professional, Professional Individual Contributor,
+Assessment Length: Approximate Completion Time in minutes = 8
+
+Description:
+Multi-choice test that measures the knowledge of CSS3 and its application in providing style to web documents.
+
+PDF Text:
+CSS3
+Assessment Fact Sheet
+
+Overview
+
+Multi-choice test that measures the knowledge of CSS3 and its application in providing style to web 
+documents.
+
+Relevant Job Roles
+
+UI Developer, Front End Developer
+
+Details
+
+Language
+
+English (US)
+
+Average Testing Time (minutes)
+
+08
+
+minutes
+
+Allowed Time (minutes)
+
+15
+
+minutes
+
+Maximum Number of Questions
+
+10
+
+questions
+
+Number of Sittings
+
+One
+
+Test Type
+
+Sector
+
+Scores Reported
+
+Multiple Choice - CTT
+
+Information Technology
+
+• Overall Score 
+• Containers and Text  
+• Layouts  
+• Transition and Transformation
+
+O*NET Competency
+
+Web Platform Development Software
+
+Knowledge, Skills, 
+Abilities And 
+Competencies 
+Measured
+
+The following areas are covered:
+
+• Fonts and text eﬀects 
+• Colors, gradients, background images, and masks  
+• Selectors and pseudo classes 
+• Borders and box eﬀects 
+• Layout: multiple columns and ﬂexible box 
+• CSS3 user interface  
+• Transformation 
+• Transition 
+• Animation
+
+© 2020 SHL and/or its affiliates. All rights reserved. | Page 1 of 1
+
+www.shl.com

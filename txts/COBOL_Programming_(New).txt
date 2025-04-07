@@ -1,0 +1,93 @@
+Title: COBOL Programming (New)
+URL: https://www.shl.com/solutions/products/product-catalog/view/cobol-programming-new/
+
+Remote Testing: Yes
+Adaptive/IRT: No
+Test Type: K
+Languages: English (USA),
+Job Levels: Mid-Professional, Professional Individual Contributor,
+Assessment Length: Approximate Completion Time in minutes = 10
+
+Description:
+Multi-choice test that measures the knowledge of COBOL programming fundamentals, programming structure and different types of application processing.
+
+PDF Text:
+COBOL Programming
+Assessment Fact Sheet
+
+Overview
+
+Multi-choice test that measures the knowledge of COBOL programming fundamentals, programming 
+structure and diﬀerent types of application processing.
+
+Relevant Job Roles
+
+Developer - Mainframe COBOL, Mainframe Systems 
+Programmer, COBOL Developer
+
+Details
+
+Language
+
+English (US)
+
+Average Testing Time (minutes)
+
+10
+
+minutes
+
+Allowed Time (minutes)
+
+15
+
+minutes
+
+Maximum Number of Questions
+
+12
+
+questions
+
+Number of Sittings
+
+One
+
+Test Type
+
+Sector
+
+Scores Reported
+
+Multiple Choice - CTT
+
+Information Technology
+
+• Overall Score 
+• Programming Fundamentals  
+• Programming Structure  
+• Application Processing
+
+Knowledge, Skills, 
+Abilities And 
+Competencies 
+Measured
+
+O*NET Competency
+
+Programming
+
+The following areas are covered:
+
+• COBOL fundamentals 
+• Strings and COBOL variables 
+• Arithmetic manipulations 
+• Tables and table manipulation 
+• System calls & sub-routines 
+• z/OS & major subsystems and VSAM processing 
+• Sort and merge processing 
+• File and report processing
+
+© 2020 SHL and/or its affiliates. All rights reserved. | Page 1 of 1
+
+www.shl.com

@@ -1,0 +1,15 @@
+Title: SAP ABAP (Intermediate Level) (New)
+URL: https://www.shl.com/solutions/products/product-catalog/view/sap-abap-intermediate-level-new/
+
+Remote Testing: Yes
+Adaptive/IRT: No
+Test Type: K
+Languages: English (USA),
+Job Levels: Mid-Professional, Professional Individual Contributor,
+Assessment Length: Approximate Completion Time in minutes = 9
+
+Description:
+Multi-choice test that measures the knowledge of SAP ABAP dictionary, elements, operations, architecture, ABAP data types, ABAP reporting, batch data communication, dialog programming, EDI, ALE, IDOC interface, BADI, BAPI and function module.
+
+PDF Text:
+

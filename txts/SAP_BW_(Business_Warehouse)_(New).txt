@@ -1,0 +1,15 @@
+Title: SAP BW (Business Warehouse) (New)
+URL: https://www.shl.com/solutions/products/product-catalog/view/sap-bw-business-warehouse-new/
+
+Remote Testing: Yes
+Adaptive/IRT: No
+Test Type: K
+Languages: English (USA),
+Job Levels: Mid-Professional, Professional Individual Contributor,
+Assessment Length: Approximate Completion Time in minutes = 9
+
+Description:
+Multi-choice test that measures the knowledge of SAP architecture, meta data, data modelling, extraction, loading, scheduling, data reporting, performance tuning and SAP BW/BI integration.
+
+PDF Text:
+

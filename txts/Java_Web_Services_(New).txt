@@ -1,0 +1,84 @@
+Title: Java Web Services (New)
+URL: https://www.shl.com/solutions/products/product-catalog/view/java-web-services-new/
+
+Remote Testing: Yes
+Adaptive/IRT: No
+Test Type: K
+Languages: English (USA),
+Job Levels: Mid-Professional, Professional Individual Contributor,
+Assessment Length: Approximate Completion Time in minutes = 8
+
+Description:
+Multi-choice test that measures the knowledge of basic Java constructs, OOP concepts, file handling, exception handling, threads, generics and inner class.
+
+PDF Text:
+Java Web Services
+Assessment Fact Sheet
+
+Overview
+
+Multi-choice test that measures the knowledge of basic Java constructs, OOP concepts, ﬁle handling, 
+exception handling, threads, generics and inner class.
+
+Relevant Job Roles
+
+Java Developer, Java Web developer, Application 
+Developer: Java Full Stack
+
+Details
+
+Language
+
+English (US)
+
+Average Testing Time (minutes)
+
+08
+
+minutes
+
+Allowed Time (minutes)
+
+15
+
+minutes
+
+Maximum Number of Questions
+
+10
+
+questions
+
+Number of Sittings
+
+One
+
+Test Type
+
+Sector
+
+Multiple Choice - CTT
+
+Information Technology
+
+Scores Reported
+
+• Overall Score 
+
+O*NET Competency
+
+Programming
+
+Knowledge, Skills, 
+Abilities And 
+Competencies 
+Measured
+
+The following areas are covered:
+
+• SOAP web services 
+• RESTful web services
+
+© 2020 SHL and/or its affiliates. All rights reserved. | Page 1 of 1
+
+www.shl.com

@@ -1,0 +1,100 @@
+Title: .NET MVC (New)
+URL: https://www.shl.com/solutions/products/product-catalog/view/net-mvc-new/
+
+Remote Testing: Yes
+Adaptive/IRT: No
+Test Type: K
+Languages: English (USA),
+Job Levels: Mid-Professional, Professional Individual Contributor,
+Assessment Length: Approximate Completion Time in minutes = 17
+
+Description:
+Multi-choice test that measures the knowledge of Model-View-Controller (MVC) architecture, validation, security, routing, and areas.
+
+PDF Text:
+.NET MVC
+Assessment Fact Sheet
+
+Overview
+
+Multi-choice test that measures the knowledge of Model-View-Controller (MVC) architecture, 
+validation, security, routing, and areas.
+
+Relevant Job Roles
+
+.Net Developer, Software Developer, Software Engineer, 
+Application Developer, Technical Architect, Full Stack 
+Developer
+
+Details
+
+Language
+
+English (US)
+
+Average Testing Time (minutes)
+
+17
+
+minutes
+
+Allowed Time (minutes)
+
+30
+
+minutes
+
+Maximum Number of Questions
+
+20
+
+questions
+
+Number of Sittings
+
+One
+
+Test Type
+
+Sector
+
+Scores Reported
+
+Multiple Choice - CTT
+
+Information Technology
+
+• Overall Score 
+• MVC Architecture  
+• Models, Views and Controllers  
+• Routing and Areas  
+• Validation and Security
+
+Knowledge, Skills, 
+Abilities And 
+Competencies 
+Measured
+
+O*NET Competency
+
+Programming
+
+The following areas are covered:
+
+• MVC architecture 
+• MVC life cycle 
+• Inversion of control and dependency injection 
+• Folder structure 
+• Controllers, actions, and ﬁlters 
+• Coupled and de-coupled classes 
+• Data models and model binding 
+• Views, partial views, and razors 
+• MVC scaﬀolding and HTML helpers 
+• Route table formation 
+• Caching and sessions 
+• Validations and exception handling 
+• Authentication, authorization, and anti forgery token
+
+© 2020 SHL and/or its affiliates. All rights reserved. | Page 1 of 1
+
+www.shl.com

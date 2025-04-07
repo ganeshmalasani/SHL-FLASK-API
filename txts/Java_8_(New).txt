@@ -1,0 +1,98 @@
+Title: Java 8 (New)
+URL: https://www.shl.com/solutions/products/product-catalog/view/java-8-new/
+
+Remote Testing: Yes
+Adaptive/IRT: No
+Test Type: K
+Languages: English (USA),
+Job Levels: Mid-Professional, Professional Individual Contributor,
+Assessment Length: Approximate Completion Time in minutes = 18
+
+Description:
+Multi-choice test that measures the knowledge of Java class design, exceptions, generics, collections, concurrency, JDBC and Java I/O fundamentals.
+
+PDF Text:
+Java 8
+Assessment Fact Sheet
+
+Overview
+
+Multi-choice test that measures the knowledge of Java class design, exceptions, generics, collections, 
+concurrency, JDBC and Java I/O fundamentals.
+
+Relevant Job Roles
+
+Java Developer, Backend Development Engineer, Software 
+Developer, Backend Developer
+
+Details
+
+Language
+
+English (US)
+
+Average Testing Time (minutes)
+
+18
+
+minutes
+
+Allowed Time (minutes)
+
+25
+
+minutes
+
+Maximum Number of Questions
+
+21
+
+questions
+
+Number of Sittings
+
+One
+
+Test Type
+
+Sector
+
+Scores Reported
+
+Multiple Choice - CTT
+
+Information Technology
+
+• Overall Score 
+• Core Java  
+• Advanced Java  
+• Java 8
+
+O*NET Competency
+
+Programming
+
+Knowledge, Skills, 
+Abilities And 
+Competencies 
+Measured
+
+The following areas are covered:
+
+• Data types & strings 
+• Collections and generics 
+• Oops concepts 
+• Inner class and optional class 
+• Interfaces and packages 
+• Exception handling 
+• Parallel array 
+• Files and streams 
+• Threads and concurrency 
+• Functional interfaces 
+• Lambda expressions 
+• Improved Java memory model 
+• Method reference and static methods
+
+© 2020 SHL and/or its affiliates. All rights reserved. | Page 1 of 1
+
+www.shl.com

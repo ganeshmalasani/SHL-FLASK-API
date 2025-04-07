@@ -1,0 +1,1218 @@
+Title: MFS 360 UCF Group Report
+URL: https://www.shl.com/solutions/products/product-catalog/view/mfs-360-ucf-group-report/
+
+Remote Testing: Yes
+Adaptive/IRT: No
+Test Type: D
+Languages: nan
+Job Levels: nan
+Assessment Length: nan
+
+Description:
+This report follows the standard layout of the 360 report but incorporates the average scores for a group of participants. The report can be generated for all participants on a project, or a dedicated group can be created in MFS for a group that includes participants across multiple projects. The report does not include the open questions even when they were part of the questionnaire. Developments tips are not available in this report.
+
+PDF Text:
+UCF
+
+Universal Competency Framework
+
+Sample Group Report
+
+It has been generated from responses provided by:
+
+Self: 5
+
+Manager(s): 5
+
+Colleagues: 13
+
+Direct reports: 11
+
+Others: 12
+
+Date: 17/10/2018
+
+This Report contains confidential information which should not be imparted to unauthorised persons.
+
+Sample Group Report
+
+UCF Feedback Report
+
+Introduction
+
+This report provides a summary of the overall results for the group specified.
+
+In each section, the collective results are shown for the entire group.  Results for particular individuals cannot be inferred from 
+these overall results.
+
+The information contained in this report can be useful in several ways.  Among these are the following:
+• As benchmark data useful in interpreting individual results . Are an individual’s results higher or lower then, or similar to, the 
+average for the group?
+• As useful information in understanding the distribution of competencies across the group . What are the group’s relative strengths 
+and weaknesses with respect to the assessed competencies?
+• As documentation illustrating change in competency results over time , where the same (or similar) group is being re-assessed. 
+Has an intervention within the organization had the desired impact on competency behavior?
+
+In all cases, some care must be exercised in interpreting the results.   Small differences may be the result of random variation , and 
+have not been subject to tests of statistical significance.
+
+UCF Feedback Report
+
+Sample Group Report: 17/10/2018
+
+Page 2
+
+Sample Group Report
+
+UCF Feedback Report
+
+Competency Summary
+
+This section summarises the ratings various rater groups gave to participants. The ratings shown here are the average of the ratings 
+on the individual questions which make up a given competency.
+
+Participant Self ratings are represented by the first bar from the top, followed by Manager ratings in the second bar.  If other groups of 
+raters have participated, the next bars indicate the ratings of Colleagues, Direct Reports and Others.  The values summarise the 
+average of the ratings on the questions forming a competency. The ratings of each rater group have been averaged across the group.
+
+Please note:  Where “No Evidence” has been indicated by a rater, the average rating for any question is based on the responses from 
+other raters, and that average is used in the calculation of the over-all competency rating for that rater group.
+
+UCF Feedback Report
+
+Sample Group Report: 17/10/2018
+
+Page 3
+
+Sample Group Report
+
+UCF Feedback Report
+
+Not at all well
+
+Extremely well
+
+1
+
+2
+
+3
+
+4
+
+5
+
+Leading and Supervising
+
+Provides others with a clear direction; 
+motivates and empowers others; recruits 
+staff of a high calibre; provides staff with 
+development opportunities and coaching; 
+sets appropriate standards of behaviour.
+
+Working with People
+
+Shows respect for the views and 
+contributions of other team members; 
+shows empathy; listens, supports and 
+cares for others; consults others and 
+shares information and expertise with 
+them; builds team spirit and reconciles 
+conflict; adapts to the team and fits in well.
+
+Persuading and Influencing
+
+Gains clear agreement and commitment 
+from others by persuading, convincing and 
+negotiating; makes effective use of political 
+processes to influence and persuade 
+others; promotes ideas on behalf of 
+oneself or others; makes a strong personal 
+impact on others; takes care to manage 
+one’s impression on others.
+
+Adapting and Responding to change
+
+Adapts to changing circumstances; 
+tolerates ambiguity; accepts new ideas and 
+change initiatives; adapts interpersonal 
+style to suit different people or situations; 
+shows an interest in new experiences.
+
+Self
+
+Manager(s)
+
+Colleagues
+
+Direct reports
+
+Others
+
+Self
+
+Manager(s)
+
+Colleagues
+
+Direct reports
+
+Others
+
+Self
+
+Manager(s)
+
+Colleagues
+
+Direct reports
+
+Others
+
+Self
+
+Manager(s)
+
+Colleagues
+
+Direct reports
+
+Others
+
+ 3.40
+
+ 3.50
+
+ 3.70
+
+ 3.70
+
+ 3.40
+
+ 4.00
+
+ 4.00
+
+ 3.80
+
+ 3.60
+
+ 3.60
+
+ 4.00
+
+ 3.50
+
+ 3.60
+
+ 3.40
+
+ 3.10
+
+ 3.80
+
+ 3.20
+
+ 3.70
+
+ 3.30
+
+ 3.10
+
+UCF Feedback Report
+
+Sample Group Report: 17/10/2018
+
+Page 4
+
+Sample Group Report
+
+UCF Feedback Report
+
+Frequency ratings per competency
+
+This section describes how each item was rated by each category of raters. A table summarizes all ratings given by all participants for 
+one competency. Additionally, the bottom line of the table indicates the average rating per category. 
+
+In the example below, “Self” has rated all the items forming the competency “Judgement” with “3” except the last item which was rated 
+with “5”. These ratings have an average value of “3,5”. 
+
+For the category “colleagues”, item 1 has been rated with “4” and “5” by the two assessors. Item 2 has been rated with “2” and “3”, 
+item 3 has been rated with “3” twice and item 4 has been rated with “3” and with “4”. The average value for the evaluation done by 
+“colleagues” is “3,4”.
+
+Please note: ‘No Evidence’  does not appear in the overview .
+
+Key to table:
+
+S= Self
+M= Manager(s)
+C= Colleagues
+D= Direct reports
+O= Others
+
+UCF Feedback Report
+
+Sample Group Report: 17/10/2018
+
+Page 5
+
+Leading and Supervising
+
+Delegates work to others on the basis of their abilities 
+and resources available to them
+
+Provides others with a clear direction
+
+Identifies and recruits high-calibre individuals
+
+Identifies development needs and provides resources 
+to support learning
+
+Provides others with constructive feedback and 
+guidance on how they may best apply their talents
+
+Monitors others' behaviour to ensure appropriate 
+standards are met
+
+Inspires enthusiasm and a positive work attitude in 
+others
+
+Working with People
+
+Shows tolerance and consideration for others
+
+Shows an interest in the attitudes, views and motives 
+of others
+
+Invites suggestions from others when making 
+decisions
+
+Expresses appreciation of others when they produce 
+good work
+
+Takes time to find out what others have to say
+
+Creates a sense of team spirit by encouraging 
+harmony, co-operation and communication
+
+Supports others, facilitating their work and defending 
+them when appropriate
+
+Persuading and Influencing
+
+Influences the course of conversations and guides 
+them to a desired endpoint
+
+Makes best use of the internal or organisational 
+processes available to influence and persuade others
+
+Creates an immediate, positive and credible 
+impression on others
+
+Negotiates well using a variety of approaches
+
+Closes deals, sales or discussions with firm 
+agreement on both sides
+
+Promotes and defends own ideas or ideas on behalf of 
+the organisation
+
+Sample Group Report
+
+UCF Feedback Report
+
+S
+
+ 3
+
+ 4
+
+ 4
+
+ 3
+
+ 3
+
+ 3
+
+ 4
+
+M
+
+C
+
+D
+
+O
+
+54321543215432154321
+
+ 4  1
+
+ 2  5  4
+
+ 2
+
+ 1
+
+ 3
+
+ 6
+
+ 1
+
+ 3  5  4
+
+ 2  1  1  1  1  1  5  2
+
+ 1  4
+
+ 4
+
+ 1  2  7
+
+ 3  4
+
+ 4
+
+ 2
+
+ 5
+
+ 1
+
+ 1
+
+ 1
+
+ 6
+
+ 2
+
+ 4
+
+ 3
+
+ 1
+
+ 5
+
+ 3
+
+ 5
+
+ 1
+
+ 6  2  1  3
+
+ 2  4  4  2
+
+ 6  5  1
+
+ 3
+
+ 1  1
+
+ 5  5
+
+ 2
+
+ 1
+
+ 9
+
+ 1
+
+ 1  1
+
+ 5  4
+
+ 3  2
+
+ 1  5  7
+
+ 1
+
+ 5
+
+ 3
+
+ 1
+
+ 7  2  2
+
+ 1  3  1  1
+
+ 8  3
+
+ 1
+
+ 2
+
+ 4
+
+ 4
+
+ 1
+
+ 1  2  7  2
+
+mean
+
+ 3.4
+
+ 3.5
+
+ 3.7
+
+ 3.7
+
+ 3.4
+
+S
+
+ 4
+
+ 3
+
+ 4
+
+ 4
+
+ 4
+
+ 4
+
+ 4
+
+M
+
+C
+
+D
+
+O
+
+54321543215432154321
+
+ 3  2
+
+ 1  5  4
+
+ 1  4
+
+ 1  3  8
+
+ 3
+
+ 1
+
+ 3
+
+ 2
+
+ 2
+
+ 1
+
+ 4
+
+ 2
+
+ 1  6  3  2
+
+ 8
+
+ 1  6  3  1
+
+ 1  2  2
+
+ 1  3  5
+
+ 4
+
+ 1
+
+ 2
+
+ 7
+
+ 1
+
+ 1
+
+ 2  6  2
+
+ 2  1  2
+
+ 1  5  6
+
+ 1
+
+ 2
+
+ 1
+
+ 5
+
+ 2
+
+ 1  2  8  1
+
+ 1
+
+ 3  1
+
+ 5  4
+
+ 1  2  2  1  1  3  2
+
+ 1
+
+ 4
+
+ 6
+
+ 1
+
+ 1
+
+ 2
+
+ 4
+
+ 3
+
+ 4
+
+ 3
+
+ 3
+
+ 4
+
+ 4  3
+
+ 2  3  3  4
+
+ 5
+
+ 1  3  6  3
+
+ 2
+
+ 3
+
+ 3
+
+ 3
+
+ 1  7  3
+
+mean
+
+ 4.0
+
+ 4.0
+
+ 3.8
+
+ 3.6
+
+ 3.6
+
+S
+
+ 4
+
+ 4
+
+ 4
+
+ 4
+
+ 4
+
+ 3
+
+M
+
+C
+
+D
+
+O
+
+54321543215432154321
+
+ 1  2  1
+
+ 4  4
+
+ 4
+
+ 1
+
+ 1
+
+ 3
+
+ 4
+
+ 2
+
+ 2  2  3  5
+
+ 3  2
+
+ 1  5  6
+
+ 1
+
+ 1
+
+ 1
+
+ 1
+
+ 7
+
+ 1
+
+ 2
+
+ 3  4  3
+
+ 1  2  1  1
+
+ 1  6  5
+
+ 1
+
+ 1
+
+ 1
+
+ 1
+
+ 6
+
+ 1
+
+ 2
+
+ 4  5
+
+ 2  1  1  1  1
+
+ 5  6
+
+ 2  1  1
+
+ 1  5  5
+
+ 1
+
+ 1
+
+ 1
+
+ 1
+
+ 1
+
+ 2
+
+ 3
+
+ 3
+
+ 4
+
+ 1
+
+ 2  3  3  2  2
+
+ 5
+
+ 1  3  1  6  1
+
+ 1  1  2  1
+
+ 2  5  4
+
+ 2
+
+ 3
+
+ 1
+
+ 2
+
+ 4
+
+ 1
+
+ 2  1  3  4  2
+
+mean
+
+ 4.0
+
+ 3.5
+
+ 3.6
+
+ 3.4
+
+ 3.1
+
+UCF Feedback Report
+
+Sample Group Report: 17/10/2018
+
+Page 6
+
+Sample Group Report
+
+UCF Feedback Report
+
+Adapting and Responding to change
+
+Adjusts to change positively
+
+Is open to new ideas
+
+Effectively relates to and communicates with people of 
+different cultures
+
+Adapts to changing circumstances
+
+Adopts the most appropriate interpersonal style for 
+each situation
+
+Works comfortably in ambiguous situations
+
+S
+
+ 3
+
+ 4
+
+ 4
+
+ 3
+
+ 4
+
+ 4
+
+mean
+
+ 3.8
+
+M
+
+C
+
+D
+
+O
+
+54321543215432154321
+
+ 3  2
+
+ 1  1  2  1
+
+ 1  4
+
+ 4  8
+
+ 1  5  3
+
+ 1  5  6
+
+ 2  2  1
+
+ 1  5  4
+
+ 1  1  3
+
+ 1
+
+ 3  7
+
+ 1
+
+ 4
+
+ 1
+
+ 3
+
+ 2
+
+ 1
+
+ 1
+
+ 1
+
+ 1
+
+ 1
+
+ 4
+
+ 2
+
+ 4
+
+ 4
+
+ 5
+
+ 2
+
+ 2
+
+ 1
+
+ 6
+
+ 2  1  2  6  1
+
+ 5
+
+ 1
+
+ 2  3  3  2  2
+
+ 5
+
+ 1
+
+ 2
+
+ 6  4
+
+ 3
+
+ 1
+
+ 2  2
+
+ 8
+
+ 2
+
+ 2
+
+ 1
+
+ 5  6
+
+ 1  4
+
+ 3.2
+
+ 1  3  7
+
+ 2
+
+ 1
+
+ 2
+
+ 3
+
+ 3
+
+ 2
+
+ 2
+
+ 1  7  2
+
+ 3.7
+
+ 3.3
+
+ 3.1
+
+UCF Feedback Report
+
+Sample Group Report: 17/10/2018
+
+Page 7
+
+Highest ratings
+
+This section lists the items on which you received your highest scores (based on the average of all assessors' ratings). From others´ 
+perspective, you have your individual strengths in these particular behavioural patterns.
+
+Sample Group Report
+
+UCF Feedback Report
+
+Rank
+
+Behaviour
+
+Average score without 
+Self
+
+Competency
+
+ 1
+
+ 2
+
+ 2
+
+ 2
+
+ 2
+
+ 3
+
+ 3
+
+ 3
+
+ 4
+
+ 4
+
+Invites suggestions from others when 
+making decisions
+
+Identifies and recruits high-calibre 
+individuals
+
+Identifies development needs and provides 
+resources to support learning
+
+Provides others with constructive feedback 
+and guidance on how they may best apply 
+their talents
+
+Creates a sense of team spirit by 
+encouraging harmony, co-operation and 
+communication
+
+Shows tolerance and consideration for 
+others
+
+Expresses appreciation of others when they 
+produce good work
+
+Takes time to find out what others have to 
+say
+
+Shows an interest in the attitudes, views and 
+motives of others
+
+Works comfortably in ambiguous situations
+
+ 3.90
+
+ 3.80
+
+ 3.80
+
+ 3.80
+
+Working with People
+
+Leading and Supervising
+
+Leading and Supervising
+
+Leading and Supervising
+
+ 3.80
+
+Working with People
+
+ 3.70
+
+ 3.70
+
+ 3.70
+
+ 3.60
+
+ 3.60
+
+Working with People
+
+Working with People
+
+Working with People
+
+Working with People
+
+Adapting and Responding to 
+change
+
+UCF Feedback Report
+
+Sample Group Report: 17/10/2018
+
+Page 8
+
+Lowest ratings
+
+This section lists the items on which you received your lowest scores (based on the average of all assessors' ratings). From others´ 
+perspective, this is where you will find particular personal areas of development.
+
+Sample Group Report
+
+UCF Feedback Report
+
+Rank
+
+Behaviour
+
+Average score without 
+Self
+
+Competency
+
+ 1
+
+ 1
+
+ 1
+
+ 2
+
+ 2
+
+ 2
+
+ 2
+
+ 3
+
+ 3
+
+ 3
+
+ 3
+
+Is open to new ideas
+
+Negotiates well using a variety of 
+approaches
+
+Supports others, facilitating their work and 
+defending them when appropriate
+
+Provides others with a clear direction
+
+Adapts to changing circumstances
+
+Closes deals, sales or discussions with firm 
+agreement on both sides
+
+Promotes and defends own ideas or ideas 
+on behalf of the organisation
+
+Delegates work to others on the basis of 
+their abilities and resources available to 
+them
+
+Creates an immediate, positive and credible 
+impression on others
+
+Effectively relates to and communicates with 
+people of different cultures
+
+Adopts the most appropriate interpersonal 
+style for each situation
+
+ 3.20
+
+ 3.20
+
+ 3.20
+
+ 3.30
+
+ 3.30
+
+ 3.30
+
+ 3.30
+
+ 3.40
+
+ 3.40
+
+ 3.40
+
+ 3.40
+
+Adapting and Responding to 
+change
+
+Persuading and Influencing
+
+Working with People
+
+Leading and Supervising
+
+Adapting and Responding to 
+change
+
+Persuading and Influencing
+
+Persuading and Influencing
+
+Leading and Supervising
+
+Persuading and Influencing
+
+Adapting and Responding to 
+change
+
+Adapting and Responding to 
+change
+
+UCF Feedback Report
+
+Sample Group Report: 17/10/2018
+
+Page 9
+
+Sample Group Report
+
+UCF Feedback Report
+
+REPORT COMMENTARY
+
+This report was generated using the SHL online Standard Multirater Feedback System.  It includes information from the Universal 
+Competency Framework (UCF) questionnaire.  The use of this questionnaire is limited to those people who have received specialist 
+training in its use and interpretation.  The report herein is generated from the results of a questionnaire answered by the 
+respondent(s) and substantially reflects the answers made by them. Due consideration must be given to the subjective nature of 
+questionnaire-based ratings in the interpretation of this data.  This report has been generated electronically - the user of the software 
+can make amendments and additions to the text of the report.  SHL Group Ltd. and its associated companies cannot guarantee that 
+the contents of this report are the unchanged output of the computer system.  We can accept no liability for the consequences of the 
+use of this report and this excludes liability of every kind (including negligence) for its contents.  This report is confidential and should 
+not be published in any way - we cannot accept any liability if it is.
+
+© 2018 SHL and/or its affiliates. All rights reserved.
+
+UCF Feedback Report, version 2.1, UK English
+
+http://www.shl.com
+
+UCF Feedback Report
+
+Sample Group Report: 17/10/2018
+
+Page 10

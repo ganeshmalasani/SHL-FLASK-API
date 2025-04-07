@@ -1,0 +1,77 @@
+Title: Automata Data Science Pro (New)
+URL: https://www.shl.com/solutions/products/product-catalog/view/automata-data-science-pro-new/
+
+Remote Testing: Yes
+Adaptive/IRT: No
+Test Type: S
+Languages: English (USA),
+Job Levels: Professional Individual Contributor, Mid-Professional,
+Assessment Length: Approximate Completion Time in minutes = max 60
+
+Description:
+A simulated test that measures the ability to analyze and modify data using machine learning algorithms to obtain desirable results.
+
+PDF Text:
+Automata Data Science Pro
+Assessment Fact Sheet
+
+Overview
+
+Simulation-based test that measures the ability to clean, modify and prepare meaningful data for analysis.
+This test also evaluates the candidates on the ability to apply, test and interpret different machine
+learning algorithms used to solve problems.
+
+Relevant Job Roles
+
+Computer Scientist, Scientific Programmer Analyst, Data Scientist,
+Data analyst, Data Engineer, Machine Learning Scientist,
+Machine Learning Programmer
+
+Details
+
+Language
+
+Average Testing Time (minutes)
+
+English
+
+54 minutes
+
+Allowed Time (minutes)
+
+60
+
+minutes
+
+Maximum Number of Questions
+
+3
+
+questions
+
+Number of Sittings
+
+One
+
+Test Type
+
+Sector
+
+Scores Reported
+
+Simulation
+
+Technology
+
+• Overall Score
+• Data Wrangling and Munging
+• ML Workﬂow Implementation
+• Library Usage and Implementation
+
+O*NET Competency
+
+Coding
+
+© 2020 SHL and/or its affiliates. All rights reserved. | Page 1 of 1
+
+www.shl.com

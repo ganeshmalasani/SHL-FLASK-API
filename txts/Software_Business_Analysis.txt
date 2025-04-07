@@ -1,0 +1,115 @@
+Title: Software Business Analysis
+URL: https://www.shl.com/solutions/products/product-catalog/view/software-business-analysis/
+
+Remote Testing: Yes
+Adaptive/IRT: Yes
+Test Type: K
+Languages: English (USA),
+Job Levels: Mid-Professional, Professional Individual Contributor,
+Assessment Length: Approximate Completion Time in minutes = 30
+
+Description:
+The Software Business Analysis test measures ability to acquire and understand business requirements for an IT project, develop technical assets in support of that project, and execute such a project in an optimal strategic manner. Designed for senior-level technical professionals, this test covers the following topics: Business Process, Diagramming and Modeling, Documentation, Joint Application Development, Methodologies and Tools, Project Development, Requirements Gathering, System Design, and User Interface.
+
+PDF Text:
+Software Business Analysis 
+
+Assessment Fact Sheet 
+
+Overview 
+
+The Software Business Analysis test measures ability to acquire and understand business requirements 
+for an IT project, develop technical assets in support of that project, and execute such a project in an 
+optimal strategic manner. Designed for senior-level technical professionals. 
+
+Job Family/Title 
+
+Software Developers, Software Architects, 
+Business Analysts, IT Managers 
+
+Details 
+
+Average Testing Time (minutes) 
+
+Allowed Time (minutes) 
+
+Maximum Number of Questions 
+
+Number of Sittings 
+
+Designed for Unproctored Environment 
+
+28 minutes 
+
+90 minutes 
+
+30 questions 
+
+One 
+
+Yes 
+
+Question Format 
+
+Product Category 
+
+Multiple Choice - Adaptive 
+
+Information Technology 
+
+Knowledge, 
+Skills, Abilities 
+and 
+Competencies 
+Measured 
+
+The following areas are covered:   
+
+  Business Process 
+
+   Diagramming and Modeling   
+
+  Documentation 
+
+  
+
+Joint Application Development   
+
+   Methodologies and Tools   
+
+   Project Development   
+
+   Requirements Gathering   
+
+  System Design 
+
+  User Interface 
+
+© 2018 SHL and/or its affiliates. All rights reserved. | Page 1 of 2 
+
+www.shl.com 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Example 
+Questions 
+
+Example 
+Reports 
+
+© 2018 SHL and/or its affiliates. All rights reserved. | Page 2 of 2 
+
+www.shl.com

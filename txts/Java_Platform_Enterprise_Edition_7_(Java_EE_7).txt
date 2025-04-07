@@ -1,0 +1,15 @@
+Title: Java Platform Enterprise Edition 7 (Java EE 7)
+URL: https://www.shl.com/solutions/products/product-catalog/view/java-platform-enterprise-edition-7-java-ee-7/
+
+Remote Testing: Yes
+Adaptive/IRT: Yes
+Test Type: K
+Languages: English (USA),
+Job Levels: Mid-Professional, Professional Individual Contributor,
+Assessment Length: Approximate Completion Time in minutes = 30
+
+Description:
+The Java Platform Enterprise Edition 7 (Java EE 7) test measures knowledge of the Java EE 7 architecture. Designed for Java programmers and architects, this test includes the following topics: Commonly-Used APIs, Component Technology, Database Access, JEE Application Architecture, JSP Extensions, Resource Management, Web Services, Webapp Control and View Technologies, and Webapp Technology.
+
+PDF Text:
+

@@ -1,0 +1,95 @@
+Title: Visual Basic for Applications (New)
+URL: https://www.shl.com/solutions/products/product-catalog/view/visual-basic-for-applications-new/
+
+Remote Testing: Yes
+Adaptive/IRT: No
+Test Type: K
+Languages: English (USA),
+Job Levels: Mid-Professional, Professional Individual Contributor,
+Assessment Length: Approximate Completion Time in minutes = 7
+
+Description:
+Multi-choice test that measures the knowledge of VBA programming constructs, forms, controls and VBA security.
+
+PDF Text:
+Visual Basic for Applications
+Assessment Fact Sheet
+
+Overview
+
+Multi-choice test that measures the knowledge of VBA programming constructs, forms, controls and 
+VBA security.
+
+Relevant Job Roles
+
+VBA Developer, VBA Specialist, Visual Basic Production 
+Support, Application Developer
+
+Details
+
+Language
+
+English (US)
+
+Average Testing Time (minutes)
+
+07
+
+minutes
+
+Allowed Time (minutes)
+
+15
+
+minutes
+
+Maximum Number of Questions
+
+15
+
+questions
+
+Number of Sittings
+
+One
+
+Test Type
+
+Sector
+
+Scores Reported
+
+Multiple Choice - CTT
+
+Information Technology
+
+• Overall Score 
+• VBA Basics  
+• Programming Constructs  
+• Forms and Controls  
+• VBA Security and Applications
+
+Knowledge, Skills, 
+Abilities And 
+Competencies 
+Measured
+
+O*NET Competency
+
+Programming
+
+The following areas are covered:
+
+• Fundamentals of VBA 
+• Conditional and looping statements in VBA 
+• Modules, procedures and functions in VBA 
+• Objects and collections 
+• Dialog boxes and form objects 
+• Handling errors 
+• Menus and toolbars 
+• Managing oﬃce applications 
+• Implementing security in VBA
+
+© 2020 SHL and/or its affiliates. All rights reserved. | Page 1 of 1
+
+www.shl.com

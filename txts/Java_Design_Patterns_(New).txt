@@ -1,0 +1,86 @@
+Title: Java Design Patterns (New)
+URL: https://www.shl.com/solutions/products/product-catalog/view/java-design-patterns-new/
+
+Remote Testing: Yes
+Adaptive/IRT: No
+Test Type: K
+Languages: English (USA),
+Job Levels: Mid-Professional, Professional Individual Contributor,
+Assessment Length: Approximate Completion Time in minutes = 5
+
+Description:
+Multi-choice test that measures the knowledge of the types of design patterns in Java and principles like threads and refactoring used in Java design patterns.
+
+PDF Text:
+Java Design Patterns
+Assessment Fact Sheet
+
+Overview
+
+Multi-choice test that measures the knowledge of the types of design patterns in Java and principles 
+like threads and refactoring used in Java design patterns.
+
+Relevant Job Roles
+
+Software Developer - Design Patterns, Full Stack 
+Developer - Java Design Patterns, Java Developer
+
+Details
+
+Language
+
+English (US)
+
+Average Testing Time (minutes)
+
+05
+
+minutes
+
+Allowed Time (minutes)
+
+07
+
+minutes
+
+Maximum Number of Questions
+
+05
+
+questions
+
+Number of Sittings
+
+One
+
+Test Type
+
+Sector
+
+Multiple Choice - CTT
+
+Information Technology
+
+Scores Reported
+
+• Overall Score 
+
+O*NET Competency
+
+Programming
+
+Knowledge, Skills, 
+Abilities And 
+Competencies 
+Measured
+
+The following areas are covered:
+
+• Creational design patterns 
+• Structural design patterns 
+• Behavioral design patterns 
+• SOLID principle and refactoring
+
+© 2020 SHL and/or its affiliates. All rights reserved. | Page 1 of 1
+
+www.shl.com

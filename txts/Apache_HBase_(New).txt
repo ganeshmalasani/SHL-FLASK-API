@@ -1,0 +1,83 @@
+Title: Apache HBase (New)
+URL: https://www.shl.com/solutions/products/product-catalog/view/apache-hbase-new/
+
+Remote Testing: Yes
+Adaptive/IRT: No
+Test Type: K
+Languages: English (USA),
+Job Levels: Mid-Professional, Professional Individual Contributor,
+Assessment Length: Approximate Completion Time in minutes = 5
+
+Description:
+Multi-choice test that measures the knowledge of HBase concepts such as CAP theorem, ACID properties, HBase client API, MapReduce integration, configuration and administration.
+
+PDF Text:
+Apache HBase
+Assessment Fact Sheet
+
+Overview
+
+Multi-choice test that measures the knowledge of Apache HBase concepts such as CAP theorem, 
+ACID properties, HBase client API, MapReduce integration, conﬁguration and administration.
+
+Relevant Job Roles
+
+Hadoop Developer, Hadoop Administrator, Big Data 
+Engineer
+
+Details
+
+Language
+
+English (US)
+
+Average Testing Time (minutes)
+
+05
+
+minutes
+
+Allowed Time (minutes)
+
+10
+
+minutes
+
+Maximum Number of Questions
+
+07
+
+questions
+
+Number of Sittings
+
+One
+
+Test Type
+
+Sector
+
+Multiple Choice - CTT
+
+Information Technology
+
+Scores Reported
+
+• Overall Score 
+
+Knowledge, Skills, 
+Abilities And 
+Competencies 
+Measured
+
+The following areas are covered:
+
+• Introduction to HBase 
+• HBase conﬁguration and administration 
+• HBase client API basics 
+• Available HBase clients 
+• HBase and MapReduce integration
+
+© 2020 SHL and/or its affiliates. All rights reserved. | Page 1 of 1
+
+www.shl.com

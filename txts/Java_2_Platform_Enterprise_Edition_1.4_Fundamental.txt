@@ -1,0 +1,89 @@
+Title: Java 2 Platform Enterprise Edition 1.4 Fundamental
+URL: https://www.shl.com/solutions/products/product-catalog/view/java-2-platform-enterprise-edition-1-4-fundamental/
+
+Remote Testing: Yes
+Adaptive/IRT: Yes
+Test Type: K
+Languages: English (USA),
+Job Levels: Entry-Level, Mid-Professional, Professional Individual Contributor,
+Assessment Length: Approximate Completion Time in minutes = 30
+
+Description:
+The Java 2 Platform Enterprise Edition (J2EE) 1.4 Fundamentals test measures knowledge of basic J2EE 1.4 Fundamentals. Designed for entry-level users, this test covers the following topics: Business Component Development, J2EE 1.4 Architecture, JAX 1.2, JDBC 3.0, Supporting API, Web Component Development, and Web Service Development.
+
+PDF Text:
+Java 2 Platform Enterprise Edition (J2EE) 
+1.4 Fundamentals 
+
+Assessment Fact Sheet 
+
+Overview 
+
+The Java 2 Platform Enterprise Edition (J2EE) 1.4 Fundamentals test measures a candidate’s 
+knowledge of the J2EE architecture. This test is designed for entry-level Java 2 programmers.  
+
+Job Family/Title 
+
+Programmers  
+
+Details 
+
+Average Testing Time (minutes) 
+
+Allowed Time (minutes) 
+
+31 minutes 
+
+90 minutes 
+
+Maximum Number of Questions 
+
+30 questions 
+
+Number of Sittings 
+
+Designed for Unproctored Environment 
+
+One 
+
+Yes 
+
+Question Format 
+
+Product Category 
+
+Multiple Choice - Adaptive 
+
+Brainbench IT 
+
+Measures knowledge of the following areas of J2EE architecture: 
+
+  Business Component Development 
+
+ 
+
+ 
+
+ 
+
+J2EE 1.4 Architecture 
+
+JAX 1.2 
+
+JDBC 3.0 
+
+  Supporting API 
+
+  Web Component Development 
+
+  Web Service Development 
+
+Knowledge, 
+Skills, Abilities 
+and 
+Competencies 
+Measured 
+
+© 2018 SHL and/or its affiliates. All rights reserved. | Page 1 of 1 
+
+www.shl.com

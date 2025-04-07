@@ -1,0 +1,87 @@
+Title: Docker (New)
+URL: https://www.shl.com/solutions/products/product-catalog/view/docker-new/
+
+Remote Testing: Yes
+Adaptive/IRT: No
+Test Type: K
+Languages: English (USA),
+Job Levels: Mid-Professional, Professional Individual Contributor,
+Assessment Length: Approximate Completion Time in minutes = 10
+
+Description:
+Multi-choice test that measures the knowledge of Docker container, data management, Docker performance and swarm.
+
+PDF Text:
+Docker
+Assessment Fact Sheet
+
+Overview
+
+Multi-choice test that measures the knowledge of Docker container, data management, Docker 
+performance and swarm.
+
+Relevant Job Roles
+
+DevOps Engineer, Cloud Infrastructure Architect, 
+Application Development Specialist, Software Engineer
+
+Details
+
+Language
+
+English (US)
+
+Average Testing Time (minutes)
+
+10
+
+minutes
+
+Allowed Time (minutes)
+
+15
+
+minutes
+
+Maximum Number of Questions
+
+12
+
+questions
+
+Number of Sittings
+
+One
+
+Test Type
+
+Sector
+
+Scores Reported
+
+Multiple Choice - CTT
+
+Information Technology
+
+• Overall Score 
+• Basics and Containerization  
+• Performance and Network Monitoring
+
+Knowledge, Skills, 
+Abilities And 
+Competencies 
+Measured
+
+The following areas are covered:
+
+• Basics of Docker 
+• Container and data management 
+• Docker performance 
+• Network and data management for containers 
+• Creating and managing container images 
+• Docker swarm 
+• Containerization with Docker
+
+© 2020 SHL and/or its affiliates. All rights reserved. | Page 1 of 1
+
+www.shl.com

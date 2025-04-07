@@ -1,0 +1,97 @@
+Title: Electronics and Semiconductor Engineering (New)
+URL: https://www.shl.com/solutions/products/product-catalog/view/electronics-and-semiconductor-engineering-new/
+
+Remote Testing: Yes
+Adaptive/IRT: No
+Test Type: K
+Languages: English (USA),
+Job Levels: Graduate, Mid-Professional, Professional Individual Contributor,
+Assessment Length: Approximate Completion Time in minutes = 7
+
+Description:
+Multi-choice test that measures the knowledge of semiconductors, two terminal and three terminal devices, analog electronics, digital electronics and basics of VLSI.
+
+PDF Text:
+Electronics and Semiconductor Engineering
+Assessment Fact Sheet
+
+Overview
+
+Multi-choice test that measures the knowledge of semiconductors, two terminal and three terminal 
+devices, analog electronics, digital electronics and basics of VLSI.
+
+Relevant Job Roles
+
+Microsystems Engineer, Semiconductor Processor, 
+Electronics Engineering Technician, Electrical and 
+Electronics Repairer
+
+Details
+
+Language
+
+English (US)
+
+Average Testing Time (minutes)
+
+07
+
+minutes
+
+Allowed Time (minutes)
+
+15
+
+minutes
+
+Maximum Number of Questions
+
+12
+
+questions
+
+Number of Sittings
+
+One
+
+Test Type
+
+Sector
+
+Scores Reported
+
+Multiple Choice - IRT (1PL)
+
+Engineering
+
+• Overall Score 
+• Semiconductors and Semiconductor Devices  
+• Analog Electronics  
+• Digital Electronics
+
+O*NET Competency
+
+Engineering and Technology
+
+Knowledge, Skills, 
+Abilities And 
+Competencies 
+Measured
+
+The following areas are covered:
+
+• Basics of semiconductors  
+• Two terminal devices  
+• Three terminal devices  
+• Small and large signal circuit analysis  
+• Oscillators and feedback  
+• Op-amps  
+• Filters 
+• Boolean algebra and logic families  
+• Combinational circuits  
+• Sequential circuits  
+• Basics of VLSI systems 
+
+© 2020 SHL and/or its affiliates. All rights reserved. | Page 1 of 1
+
+www.shl.com

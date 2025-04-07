@@ -1,0 +1,97 @@
+Title: SQL Server Reporting Services (SSRS) (New)
+URL: https://www.shl.com/solutions/products/product-catalog/view/sql-server-reporting-services-ssrs-new/
+
+Remote Testing: Yes
+Adaptive/IRT: No
+Test Type: K
+Languages: English (USA),
+Job Levels: Mid-Professional, Professional Individual Contributor,
+Assessment Length: Approximate Completion Time in minutes = 10
+
+Description:
+Multi-choice test that measures the knowledge of SSRS architecture, report creation, formatting, calculations, creating matrix reports and charts, grouping, sorting, report parameters, report management and security.
+
+PDF Text:
+SQL Server Reporting Services (SSRS)
+Assessment Fact Sheet
+
+Overview
+
+Multi-choice test that measures the knowledge of SSRS architecture, report creation, formatting, 
+calculations, creating matrix reports and charts, grouping, sorting, report parameters, report 
+management and security.
+
+Relevant Job Roles
+
+SSRS Developer, Application Developer
+
+Details
+
+Language
+
+English (US)
+
+Average Testing Time (minutes)
+
+10
+
+minutes
+
+Allowed Time (minutes)
+
+15
+
+minutes
+
+Maximum Number of Questions
+
+12
+
+questions
+
+Number of Sittings
+
+One
+
+Test Type
+
+Sector
+
+Scores Reported
+
+Multiple Choice - CTT
+
+Information Technology
+
+• Overall Score 
+• Basics and Architecture  
+• Formatting and Calculations  
+• Report Parameters and Functions  
+• Report Management
+
+O*NET Competency
+
+Database User Interface and Query Software
+
+Knowledge, Skills, 
+Abilities And 
+Competencies 
+Measured
+
+The following areas are covered:
+
+• Components and lifecycle 
+• Report creation 
+• Calculations 
+• Formatting 
+• Creating matrix reports and charts 
+• Grouping and sorting 
+• Report parameters 
+• Report management 
+• Security 
+• Snapshots and subscription 
+• Report builder and report part
+
+© 2020 SHL and/or its affiliates. All rights reserved. | Page 1 of 1
+
+www.shl.com

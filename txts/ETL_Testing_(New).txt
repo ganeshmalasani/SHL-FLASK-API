@@ -1,0 +1,91 @@
+Title: ETL Testing (New)
+URL: https://www.shl.com/solutions/products/product-catalog/view/etl-testing-new/
+
+Remote Testing: Yes
+Adaptive/IRT: No
+Test Type: K
+Languages: English (USA),
+Job Levels: Mid-Professional, Professional Individual Contributor,
+Assessment Length: Approximate Completion Time in minutes = 9
+
+Description:
+Multi-choice test that measures the knowledge of ETL architecture, data warehousing, dimensions, DBMS concepts like data manipulation, constraints, ETL testing and tools required for testing.
+
+PDF Text:
+ETL Testing
+Assessment Fact Sheet
+
+Overview
+
+Multi-choice test that measures the knowledge of ETL architecture, data warehousing, dimensions, 
+DBMS concepts like data manipulation, constraints, ETL testing and tools required for testing.
+
+Relevant Job Roles
+
+Quality Analyst, Software Tester, QA Engineer
+
+Details
+
+Language
+
+English (US)
+
+Average Testing Time (minutes)
+
+09
+
+minutes
+
+Allowed Time (minutes)
+
+15
+
+minutes
+
+Maximum Number of Questions
+
+12
+
+questions
+
+Number of Sittings
+
+One
+
+Test Type
+
+Sector
+
+Scores Reported
+
+Multiple Choice - CTT
+
+Information Technology
+
+• Overall Score 
+• Basics of ETL and DBMS  
+• Testing Concepts  
+• Testing Tools
+
+O*NET Competency
+
+Business Intelligence and Data Analysis Software
+
+Knowledge, Skills, 
+Abilities And 
+Competencies 
+Measured
+
+The following areas are covered:
+
+• ETL architecture, data warehousing concepts, dimensions, schemas and tables 
+• SQL concepts and queries 
+• DBMS, types, views, constraints and data manipulations 
+• ETL testing concepts, workﬂows, transformations, test cases and test plans 
+• Testing and types, data processes and characteristics & data quality 
+• Testing tools and Informatica concepts 
+• Unix concepts and commands
+
+© 2020 SHL and/or its affiliates. All rights reserved. | Page 1 of 1
+
+www.shl.com

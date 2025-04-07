@@ -1,0 +1,92 @@
+Title: SQL Server (New)
+URL: https://www.shl.com/solutions/products/product-catalog/view/sql-server-new/
+
+Remote Testing: Yes
+Adaptive/IRT: No
+Test Type: K
+Languages: English (USA),
+Job Levels: Mid-Professional, Professional Individual Contributor,
+Assessment Length: Approximate Completion Time in minutes = 11
+
+Description:
+Multi-choice test that measures the knowledge of basic SQL queries, creating and altering tables, filtering, grouping, aggregation in SQL and querying multiple tables.
+
+PDF Text:
+SQL Server
+Assessment Fact Sheet
+
+Overview
+
+Multi-choice test that measures the knowledge of basic SQL queries, creating and altering tables, 
+ﬁltering, grouping, aggregation in SQL and querying multiple tables.
+
+Relevant Job Roles
+
+SQL Server Developer, SQL Server Database Consultant, 
+Analyst - SQL Server
+
+Details
+
+Language
+
+English (US)
+
+Average Testing Time (minutes)
+
+11
+
+minutes
+
+Allowed Time (minutes)
+
+15
+
+minutes
+
+Maximum Number of Questions
+
+15
+
+questions
+
+Number of Sittings
+
+One
+
+Test Type
+
+Sector
+
+Scores Reported
+
+Multiple Choice - CTT
+
+Information Technology
+
+• Overall Score 
+• Basic Queries  
+• DDL Commands  
+• Grouping and Aggregation  
+• Joins
+
+O*NET Competency
+
+Database User Interface and Query Software
+
+Knowledge, Skills, 
+Abilities And 
+Competencies 
+Measured
+
+The following areas are covered:
+
+• SQL basic queries 
+• Alter and truncate queries 
+• Filtering and search conditions  
+• Advanced data ﬁltering 
+• Grouping and aggregation in SQL 
+• Querying multiple tables
+
+© 2020 SHL and/or its affiliates. All rights reserved. | Page 1 of 1
+
+www.shl.com

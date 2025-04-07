@@ -1,0 +1,96 @@
+Title: HTML5 (New)
+URL: https://www.shl.com/solutions/products/product-catalog/view/html5-new/
+
+Remote Testing: Yes
+Adaptive/IRT: No
+Test Type: K
+Languages: English (USA),
+Job Levels: Mid-Professional, Professional Individual Contributor,
+Assessment Length: Approximate Completion Time in minutes = 11
+
+Description:
+Multi-choice test that measures the knowledge of HTML5 and its application in creating a user interface.
+
+PDF Text:
+HTML5
+Assessment Fact Sheet
+
+Overview
+
+Multi-choice test that measures the knowledge of HTML5 and its application in creating a user 
+interface.
+
+Relevant Job Roles
+
+HTML5 Developer, Software Developer, Web Developer, 
+Frontend Developer, UI Developers, HTML/CSS Developer
+
+Details
+
+Language
+
+English (US)
+
+Average Testing Time (minutes)
+
+11
+
+minutes
+
+Allowed Time (minutes)
+
+15
+
+minutes
+
+Maximum Number of Questions
+
+12
+
+questions
+
+Number of Sittings
+
+One
+
+Test Type
+
+Sector
+
+Scores Reported
+
+Multiple Choice - CTT
+
+Information Technology
+
+• Overall Score 
+• HTML5 Basics and Data Elements  
+• Multimedia and UI Elements  
+• Application APIs
+
+O*NET Competency
+
+Web Platform Development Software
+
+The following areas are covered:
+
+• Form elements 
+• Semantics 
+• Input types 
+• Canvas 
+• SVG 
+• Drag/Drop 
+• Audio and video 
+• Geolocation 
+• Web storage 
+• Web workers 
+• SSE
+
+Knowledge, Skills, 
+Abilities And 
+Competencies 
+Measured
+
+© 2020 SHL and/or its affiliates. All rights reserved. | Page 1 of 1
+
+www.shl.com

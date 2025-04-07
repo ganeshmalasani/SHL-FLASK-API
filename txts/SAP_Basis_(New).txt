@@ -1,0 +1,15 @@
+Title: SAP Basis (New)
+URL: https://www.shl.com/solutions/products/product-catalog/view/sap-basis-new/
+
+Remote Testing: Yes
+Adaptive/IRT: No
+Test Type: K
+Languages: English (USA),
+Job Levels: Mid-Professional, Professional Individual Contributor,
+Assessment Length: Approximate Completion Time in minutes = 9
+
+Description:
+Multi-choice test that measures the knowledge of SAP architecture, database administration, background processing, user administration, client administration, system administration, monitoring and transport management.
+
+PDF Text:
+

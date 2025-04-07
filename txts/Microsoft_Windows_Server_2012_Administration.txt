@@ -1,0 +1,15 @@
+Title: Microsoft Windows Server 2012 Administration
+URL: https://www.shl.com/solutions/products/product-catalog/view/microsoft-windows-server-2012-administration/
+
+Remote Testing: Yes
+Adaptive/IRT: Yes
+Test Type: K
+Languages: English (USA),
+Job Levels: Mid-Professional, Professional Individual Contributor,
+Assessment Length: Approximate Completion Time in minutes = 35
+
+Description:
+The Microsoft Windows Server 2012 Administration test measures knowledge of Windows Server Administration. Designed for experienced Network Administrators, this test includes the following topics: Active Directory, Administrative Tasks, Computer Properties, Configuration and Management, Design and Installation, Local Security Policy, Networking, Security, and Server Management.
+
+PDF Text:
+

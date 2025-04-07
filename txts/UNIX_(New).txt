@@ -1,0 +1,96 @@
+Title: UNIX (New)
+URL: https://www.shl.com/solutions/products/product-catalog/view/unix-new/
+
+Remote Testing: Yes
+Adaptive/IRT: No
+Test Type: K
+Languages: English (USA),
+Job Levels: Mid-Professional, Professional Individual Contributor,
+Assessment Length: Approximate Completion Time in minutes = 9
+
+Description:
+Multi-choice test that measures the knowledge on the concepts of UNIX commands, file system, file handling, regular expression, awk programming and shell programming.
+
+PDF Text:
+UNIX
+Assessment Fact Sheet
+
+Overview
+
+Multi-choice test that measures the knowledge on the concepts of UNIX commands, ﬁle system, ﬁle 
+handling, regular expression, awk programming and shell programming.
+
+Relevant Job Roles
+
+Unix System Administrator, Unix System Architect, 
+Systems Administrator - Unix, Systems Developer - Unix, 
+DevOps Engineer
+
+Details
+
+Language
+
+English (US)
+
+Average Testing Time (minutes)
+
+09
+
+minutes
+
+Allowed Time (minutes)
+
+15
+
+minutes
+
+Maximum Number of Questions
+
+15
+
+questions
+
+Number of Sittings
+
+One
+
+Test Type
+
+Sector
+
+Scores Reported
+
+Multiple Choice - CTT
+
+Information Technology
+
+• Overall Score 
+• Unix Commands and Architecture  
+• File System and File Handling  
+• Processes and Filters  
+• Shell Programming
+
+O*NET Competency
+
+Operating System Software
+
+Knowledge, Skills, 
+Abilities And 
+Competencies 
+Measured
+
+The following areas are covered:
+
+• Basic commands 
+• Unix architecture 
+• File system 
+• Files handling and ﬁle attributes 
+• Grep and sed commands 
+• Awk command 
+• Regular expressions 
+• Shell programming 
+• Processes
+
+© 2020 SHL and/or its affiliates. All rights reserved. | Page 1 of 1
+
+www.shl.com

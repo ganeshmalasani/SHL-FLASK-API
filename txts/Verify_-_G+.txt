@@ -1,0 +1,156 @@
+Title: Verify - G+
+URL: https://www.shl.com/solutions/products/product-catalog/view/verify-g/
+
+Remote Testing: Yes
+Adaptive/IRT: Yes
+Test Type: A
+Languages: Romanian, English (USA), English International, French (Canada), Latin American Spanish, Arabic, Dutch, French, German, Swedish, Chinese Simplified, Chinese Traditional, Czech, Danish, Greek, Hungarian, Italian, Korean, Norwegian, Polish, Portuguese, Thai, Turkish, Finnish, Japanese, Spanish, Indonesian, Russian, Slovak, Serbian, Portuguese (Brazil), Vietnamese,
+Job Levels: General Population, Graduate, Manager, Mid-Professional, Professional Individual Contributor, Supervisor, Director, Entry-Level, Executive, Front Line Manager,
+Assessment Length: Approximate Completion Time in minutes = 36
+
+Description:
+The G+ test is part of the Verify suite of cognitive ability tests. The test is designed to measure three types of ability: Numerical, Deductive, and Inductive. There are 30 questions in the test, with 10 questions for each of the three abilities measured. Sample tasks for jobs that may require these abilities include, but are not limited to: evaluating arguments, analyzing scenarios, working with data, doing mathematical computations, interpreting graphs and tables, and drawing logical conclusions. The G+ test, due to its adaptive nature, is appropriate for all job levels and roles.
+
+PDF Text:
+Verify G+ Test  
+
+Test Fact Sheet 
+
+Overview 
+
+The G+ test is part of the Verify suite of cognitive ability tests. The test is designed to measure three 
+types of ability: Numerical, Deductive, and Inductive. There are 30 questions in the test, with 10 
+questions for each of the three abilities measured. Sample tasks for jobs that may require these abilities 
+include, but are not limited to: evaluating arguments, analyzing scenarios, working with data, doing 
+mathematical computations, interpreting graphs and tables, and drawing logical conclusions. The G+ 
+test, due to its adaptive nature, is appropriate for all job levels and roles.  
+
+The G+ test utilizes computer adaptive technology, offering the following benefits: 
+
+  Shorter testing administration time 
+
+  Ability to offer the test in an unsupervised setting 
+
+  A more precise test score 
+
+Job Family / Title 
+
+Verify 
+
+Details 
+
+Average Testing Time (minutes) 
+
+32-36 minutes 
+
+Allowed Time (minutes) 
+
+Maximum Number of Questions 
+
+36 minutes 
+
+30 questions 
+
+Designed for Unproctored Environment 
+
+Yes 
+
+Question Format 
+
+Product Category 
+
+Multiple choice, Adaptive 
+
+Ability & Aptitude 
+
+Knowledge, 
+Skills, Abilities 
+and 
+Competencies 
+Measured 
+
+Numerical Ability: The Numerical Ability questions are designed to measure the ability to solve 
+problems involving numerical data by using the proper mathematical methods and the ability to interpret 
+data presented in charts, graphs, and tables. Candidates will be asked to make correct decisions or 
+inferences from numerical or statistical data. This ability is commonly required to support work and 
+decision-making in many different types of jobs at many levels. 
+
+Deductive Reasoning: These questions are designed to assess the candidate’s ability to draw logical 
+conclusions based on information provided, identify strengths and weaknesses of arguments, and 
+complete scenarios using incomplete information. It provides an indication of how an individual will 
+perform when asked to develop solutions when presented with information and draw sound conclusions 
+from data. 
+
+Inductive Reasoning: Ten questions are completely non-verbal and feature only shapes and figures. 
+These questions are designed to measure the ability to detect regularities, patterns, and generalizations 
+and infer rules that can be applied to different situations. Individuals high in this ability tend to excel in 
+global and strategic thinking and are good at finding errors in work processes. 
+
+© 2018 SHL and/or its affiliates. All rights reserved. | Page 1 of 2 
+
+www.shl.com 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Numerical 
+Ability Sample 
+Question 
+
+A car dealership lowered all of its car prices by 15%.  
+
+Given the above information, what was the original price of a car now priced at £9500? 
+
+A. £8075.00  
+B. £10,925.00  
+C. £11,000.00  
+D. £11,176.47  
+E. £12,322.13  
+
+To answer the question, the candidate must calculate the full price of the car before the 15% discount. 
+The price £9500 is 85% of the full price (100%-15%). So, the calculation is the cost of the car post-
+discount divided by 85 (to find 1% of the full price), then multiplied by 100 to obtain the full cost pre-
+discount. So the answer is D: £11,176.47 
+
+Deductive 
+Reasoning 
+Sample 
+Question 
+
+Review the facts below. 
+
+ 
+Jane drives a red car. 
+  Susan drives a blue car. 
+ 
+  Blue cars get 33 miles per gallon of gasoline. 
+
+There are no red cars in Ohio. 
+
+Based on the information above, which of the following MUST be true? 
+
+1.  Jane lives in Ohio. 
+2.  Susan lives in Ohio. 
+3.  Red cars get 36 miles per gallon of gasoline. 
+4.  Susan’s car gets 33 miles per gallon of gasoline. 
+5.  Jane and Susan live in the same state. 
+
+The correct answer is D. Since blue cars get 33 miles per gallon of gas, the fact that Susan drives a blue 
+car means that her car gets 33 miles per gallon of gas. 
+
+Inductive 
+Reasoning 
+Sample 
+Question 
+
+The correct answer is C. Each row contains 1 of 5 different shapes in no particular order. The only 
+shape missing in the 4th row is a triangle and the only shape missing in the 5th row is a circle. 
+
+© 2018 SHL and/or its affiliates. All rights reserved. | Page 2 of 2 
+
+www.shl.com

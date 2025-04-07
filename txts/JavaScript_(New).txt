@@ -1,0 +1,92 @@
+Title: JavaScript (New)
+URL: https://www.shl.com/solutions/products/product-catalog/view/javascript-new/
+
+Remote Testing: Yes
+Adaptive/IRT: No
+Test Type: K
+Languages: English (USA),
+Job Levels: Mid-Professional, Professional Individual Contributor,
+Assessment Length: Approximate Completion Time in minutes = 9
+
+Description:
+Multi-choice test that measures knowledge of programming in the JavaScript language and its application in front-end development.
+
+PDF Text:
+JavaScript
+Assessment Fact Sheet
+
+Overview
+
+Multi-choice test that measures knowledge of programming in the JavaScript language and its 
+application in front-end development.
+
+Relevant Job Roles
+
+Software Developer, Web Developer, Frontend Developer, 
+UI Developer
+
+Details
+
+Language
+
+English (US)
+
+Average Testing Time (minutes)
+
+09
+
+minutes
+
+Allowed Time (minutes)
+
+15
+
+minutes
+
+Maximum Number of Questions
+
+12
+
+questions
+
+Number of Sittings
+
+One
+
+Test Type
+
+Sector
+
+Scores Reported
+
+Multiple Choice - CTT
+
+Information Technology
+
+• Overall Score 
+• JavaScript Basics  
+• Object Oriented Programming  
+• JavaScript Object Model
+
+O*NET Competency
+
+Web Platform Development Software
+
+Knowledge, Skills, 
+Abilities And 
+Competencies 
+Measured
+
+The following areas are covered:
+
+• Control statements, loops and comparison 
+• Data types, scope and operators 
+• Syntax, variables and comments 
+• Object oriented programming, objects and functions 
+• Multimedia and forms 
+• JavaScript HTML DOM 
+• JavaScript browser BOM
+
+© 2020 SHL and/or its affiliates. All rights reserved. | Page 1 of 1
+
+www.shl.com

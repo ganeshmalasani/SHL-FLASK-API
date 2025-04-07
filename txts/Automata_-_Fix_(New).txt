@@ -1,0 +1,82 @@
+Title: Automata - Fix (New)
+URL: https://www.shl.com/solutions/products/product-catalog/view/automata-fix-new/
+
+Remote Testing: Yes
+Adaptive/IRT: No
+Test Type: S
+Languages: English (USA),
+Job Levels: Mid-Professional,
+Assessment Length: Approximate Completion Time in minutes = max 20
+
+Description:
+A simulated compiler integrated test to measure debugging skills in C, C++ and Java. The test checks the ability to fix logical or syntactical errors and to reuse an existing code.
+
+ 
+Your use of this assessment product may be subject to New York City Law 144 (Regulation of the Use of Automated Employment Decision Tools) (dated July 5, 2023). Compliance with Law 144 is your responsibility.
+Read more on https://www.shl.com/legal/shl-us-regulatory-compliance/
+
+PDF Text:
+Automata Fix
+Assessment Fact Sheet
+
+Overview
+
+Simulated compiler integrated test to measure debugging skills in C, C++ or Java. The test checks the 
+ability to ﬁx logical and syntactical errors and to reuse an existing code.
+
+Relevant Job Roles
+
+Application Developer, Application Integration Engineer,
+
+Software Testing Engineer, Quality Analyst, QA Engineer,
+Manual Tester
+
+Details
+
+Language
+
+English
+
+Average Testing Time (minutes)
+
+14
+
+minutes
+
+Allowed Time (minutes)
+
+20
+
+minutes
+
+Maximum Number of Questions
+
+7
+
+questions
+
+Number of Sittings
+
+One
+
+Test Type
+
+Sector
+
+Scores Reported
+
+Simulation
+
+Technology
+
+• Logical Errors
+• Code Reuse
+• Syntactical Errors
+
+O*NET Competency
+
+Coding
+
+© 2020 SHL and/or its affiliates. All rights reserved. | Page 1 of 1
+
+www.shl.com

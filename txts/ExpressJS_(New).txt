@@ -1,0 +1,89 @@
+Title: ExpressJS (New)
+URL: https://www.shl.com/solutions/products/product-catalog/view/expressjs-new/
+
+Remote Testing: Yes
+Adaptive/IRT: No
+Test Type: K
+Languages: English (USA),
+Job Levels: Mid-Professional, Professional Individual Contributor,
+Assessment Length: Approximate Completion Time in minutes = 7
+
+Description:
+Multi-choice test that measures the knowledge of routing, error handling, security, middleware and performance & reliability in ExpressJS.
+
+PDF Text:
+ExpressJS
+Assessment Fact Sheet
+
+Overview
+
+Multi-choice test that measures the knowledge of routing, error handling, security, middleware and 
+performance & reliability in ExpressJS.
+
+Relevant Job Roles
+
+Software Development Engineer - Backend, Full Stack 
+Developer
+
+Details
+
+Language
+
+English (US)
+
+Average Testing Time (minutes)
+
+07
+
+minutes
+
+Allowed Time (minutes)
+
+10
+
+minutes
+
+Maximum Number of Questions
+
+10
+
+questions
+
+Number of Sittings
+
+One
+
+Test Type
+
+Sector
+
+Multiple Choice - CTT
+
+Information Technology
+
+Scores Reported
+
+• Overall Score 
+
+O*NET Competency
+
+Web Platform Development Software
+
+Knowledge, Skills, 
+Abilities And 
+Competencies 
+Measured
+
+The following areas are covered:
+
+• Routing 
+• Middleware  
+• Error Handling 
+• Security 
+• Express behind proxies 
+• Production best practices: performance and reliability 
+• Process management
+
+© 2020 SHL and/or its affiliates. All rights reserved. | Page 1 of 1
+
+www.shl.com

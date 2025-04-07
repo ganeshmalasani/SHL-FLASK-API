@@ -1,0 +1,94 @@
+Title: SAP Business Objects WebI (New)
+URL: https://www.shl.com/solutions/products/product-catalog/view/sap-business-objects-webi-new/
+
+Remote Testing: Yes
+Adaptive/IRT: No
+Test Type: K
+Languages: English (USA),
+Job Levels: Mid-Professional, Professional Individual Contributor,
+Assessment Length: Approximate Completion Time in minutes = 10
+
+Description:
+Multi-choice test that measures the knowledge of SAP interactive analysis, reporting, formatting and scheduling documents.
+
+PDF Text:
+SAP Business Objects WebI
+Assessment Fact Sheet
+
+Overview
+
+Multi-choice test that measures the knowledge of SAP interactive analysis, reporting, formatting and 
+scheduling documents.
+
+Relevant Job Roles
+
+Package Consultant - SAP BO, SAP Developer
+
+Details
+
+Language
+
+English (US)
+
+Average Testing Time (minutes)
+
+10
+
+minutes
+
+Allowed Time (minutes)
+
+15
+
+minutes
+
+Maximum Number of Questions
+
+12
+
+questions
+
+Number of Sittings
+
+One
+
+Test Type
+
+Sector
+
+Scores Reported
+
+Multiple Choice - CTT
+
+Information Technology
+
+• Overall Score 
+• Interactive Analysis  
+• Reporting  
+• Documentation
+
+Knowledge, Skills, 
+Abilities And 
+Competencies 
+Measured
+
+O*NET Competency
+
+ERP Software
+
+The following areas are covered:
+
+• Functions: character, number, currency, date and string 
+• Introduction to input controls and element linking 
+• Understanding calculation contexts 
+• Working with charts 
+• Alternative query techniques 
+• Analyzing data 
+• Introduction to interactive analysis reporting 
+• Advanced report writing 
+• Creating interactive analysis document 
+• Formatting and scheduling documents
+
+© 2020 SHL and/or its affiliates. All rights reserved. | Page 1 of 1
+
+www.shl.com

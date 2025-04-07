@@ -1,0 +1,82 @@
+Title: Apache Hive (New)
+URL: https://www.shl.com/solutions/products/product-catalog/view/apache-hive-new/
+
+Remote Testing: Yes
+Adaptive/IRT: No
+Test Type: K
+Languages: English (USA),
+Job Levels: Mid-Professional, Professional Individual Contributor,
+Assessment Length: Approximate Completion Time in minutes = 5
+
+Description:
+Multi-choice test that measures the knowledge of Hive architecture, datatypes, built-in functions, configurations, partitioning, bucketing and commands of Hive query language.
+
+PDF Text:
+Apache Hive
+Assessment Fact Sheet
+
+Overview
+
+Multi-choice test that measures the knowledge of Apache Hive architecture, datatypes, built-in 
+functions, conﬁgurations, partitioning, bucketing and commands of Hive query language.
+
+Relevant Job Roles
+
+Data Engineer, Data Scientist
+
+Details
+
+Language
+
+English (US)
+
+Average Testing Time (minutes)
+
+05
+
+minutes
+
+Allowed Time (minutes)
+
+10
+
+minutes
+
+Maximum Number of Questions
+
+07
+
+questions
+
+Number of Sittings
+
+One
+
+Test Type
+
+Sector
+
+Multiple Choice - CTT
+
+Information Technology
+
+Scores Reported
+
+• Overall Score 
+
+Knowledge, Skills, 
+Abilities And 
+Competencies 
+Measured
+
+The following areas are covered:
+
+• Fundamentals of Hive 
+• Architecture 
+• Built-in functions and operators 
+• Queries 
+• Partitioning and bucketing
+
+© 2020 SHL and/or its affiliates. All rights reserved. | Page 1 of 1
+
+www.shl.com

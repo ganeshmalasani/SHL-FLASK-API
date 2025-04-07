@@ -1,0 +1,97 @@
+Title: Oracle PL/SQL (New)
+URL: https://www.shl.com/solutions/products/product-catalog/view/oracle-plsql-new/
+
+Remote Testing: Yes
+Adaptive/IRT: No
+Test Type: K
+Languages: English (USA),
+Job Levels: Mid-Professional, Professional Individual Contributor,
+Assessment Length: Approximate Completion Time in minutes = 11
+
+Description:
+Multi-choice test that measures the knowledge of SQL queries, relational database concepts and specific Oracle PL/SQL features.
+
+PDF Text:
+Oracle PL/SQL
+Assessment Fact Sheet
+
+Overview
+
+Multi-choice test that measures the knowledge of SQL queries, relational database concepts and 
+speciﬁc Oracle PL/SQL features.
+
+Relevant Job Roles
+
+Database Administrator, Technical Consultant, Oracle PL/
+SQL Developer
+
+Details
+
+Language
+
+English (US)
+
+Average Testing Time (minutes)
+
+11
+
+minutes
+
+Allowed Time (minutes)
+
+15
+
+minutes
+
+Maximum Number of Questions
+
+13
+
+questions
+
+Number of Sittings
+
+One
+
+Test Type
+
+Sector
+
+Scores Reported
+
+Multiple Choice - CTT
+
+Information Technology
+
+• Overall Score 
+• Oracle Database  
+• SQL Commands & Constraints  
+• Joins and Indexes  
+• PL/SQL
+
+O*NET Competency
+
+Database User Interface and Query Software
+
+Knowledge, Skills, 
+Abilities And 
+Competencies 
+Measured
+
+The following areas are covered:
+
+• DML and DDL commands 
+• TCL and DCL commands 
+• Basic SQL commands 
+• SQL functions 
+• Integrity constraints 
+• Table partitioning, Backup and recovery 
+• Oracle objects 
+• Parallel statement queueing, conventional load vs direct loads 
+• Join queries 
+• Views, sequences, indexes & clusters 
+• Oracle PL/SQL
+
+© 2020 SHL and/or its affiliates. All rights reserved. | Page 1 of 1
+
+www.shl.com

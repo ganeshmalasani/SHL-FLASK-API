@@ -1,0 +1,87 @@
+Title: Linux Programming (General)
+URL: https://www.shl.com/solutions/products/product-catalog/view/linux-programming-general/
+
+Remote Testing: Yes
+Adaptive/IRT: Yes
+Test Type: K
+Languages: English (USA),
+Job Levels: Mid-Professional, Professional Individual Contributor,
+Assessment Length: Approximate Completion Time in minutes = 25
+
+Description:
+The Linux Programming (General) test measures knowledge of programming in a Linux environment. Designed for experienced programmers, this test covers the following topics: AutoConf/AutoMake, Makefiles, C Programming, C++, Debugging Programs, Linux Programming Concepts, Platform Independence, Revision Control, RPC/CORBA, and X Programming.
+
+PDF Text:
+Linux Programming (General) 
+
+Assessment Fact Sheet 
+
+Overview 
+
+Job Family/Title 
+
+Programmers 
+
+Details 
+
+Average Testing Time (minutes) 
+
+Allowed Time (minutes) 
+
+Maximum Number of Questions 
+
+Number of Sittings 
+
+Designed for Unproctored Environment 
+
+27 
+
+90 
+
+30 
+
+One 
+
+Yes 
+
+Question Format 
+
+Product Category 
+
+Multiple Choice - Adaptive 
+
+Brainbench IT 
+
+Knowledge, 
+Skills, Abilities 
+and 
+Competencies 
+Measured 
+
+Measures knowledge of programming in a Linux environment. The following areas are covered: 
+
+  AutoConf/AutoMake 
+
+  Makefiles 
+
+  C Programming 
+
+  C++ 
+
+  Debugging Programs 
+
+ 
+
+Linux Programming Concepts 
+
+  Platform Independence 
+
+  Revision Control 
+
+  RPC/CORBA 
+
+  X Programming 
+
+© 2018 SHL and/or its affiliates. All rights reserved. | Page 1 of 1 
+
+www.shl.com

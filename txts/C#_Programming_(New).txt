@@ -1,0 +1,97 @@
+Title: C# Programming (New)
+URL: https://www.shl.com/solutions/products/product-catalog/view/c-programming-new-4039/
+
+Remote Testing: Yes
+Adaptive/IRT: No
+Test Type: K
+Languages: English (USA),
+Job Levels: Mid-Professional, Professional Individual Contributor,
+Assessment Length: Approximate Completion Time in minutes = 9
+
+Description:
+Multi-choice test that measures the knowledge of C# programming structure, functions, collections, enumeration, exception handling, OOPs constructs, inheritance, event handling and operator overloading.
+
+PDF Text:
+C# Programming
+Assessment Fact Sheet
+
+Overview
+
+Multi-choice test that measures the knowledge of C# programming structure, functions, collections, 
+enumeration, exception handling, OOPs constructs, inheritance, event handling and operator 
+overloading.
+
+Relevant Job Roles
+
+.Net Developer, C# Developer, Software Developer - C#, 
+Desktop Application Developer
+
+Details
+
+Language
+
+English (US)
+
+Average Testing Time (minutes)
+
+09
+
+minutes
+
+Allowed Time (minutes)
+
+15
+
+minutes
+
+Maximum Number of Questions
+
+12
+
+questions
+
+Number of Sittings
+
+One
+
+Test Type
+
+Sector
+
+Scores Reported
+
+Multiple Choice - CTT
+
+Information Technology
+
+• Overall Score 
+• C# Basics  
+• OOPS & Events  
+• Advanced C#
+
+O*NET Competency
+
+Programming
+
+Knowledge, Skills, 
+Abilities And 
+Competencies 
+Measured
+
+The following areas are covered:
+
+• Basic programming structure 
+• Data types and strings 
+• Arrays 
+• Structure 
+• Functions 
+• OOPS concepts 
+• Indexer and properties 
+• Delegates and event handling 
+• Enumeration and collections 
+• Exception handling 
+• File handling
+
+© 2020 SHL and/or its affiliates. All rights reserved. | Page 1 of 1
+
+www.shl.com

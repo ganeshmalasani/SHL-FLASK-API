@@ -1,0 +1,93 @@
+Title: C++ Programming (New)
+URL: https://www.shl.com/solutions/products/product-catalog/view/c-programming-new-4122/
+
+Remote Testing: Yes
+Adaptive/IRT: No
+Test Type: K
+Languages: English (USA),
+Job Levels: Mid-Professional, Professional Individual Contributor,
+Assessment Length: Approximate Completion Time in minutes = 10
+
+Description:
+Multi-choice test that measures the knowledge of programming in the C++ language and the ability to use the C++ standard library to write code.
+
+PDF Text:
+C++ Programming
+Assessment Fact Sheet
+
+Overview
+
+Multi-choice test that measures the knowledge of programming in the C++ language and the ability 
+to use the C++ standard library to write code.
+
+Relevant Job Roles
+
+C++ Developer, C++ Programmer, Application Developer 
+(C++), Software Engineer - C++, ASP.Net Developer
+
+Details
+
+Language
+
+English (US)
+
+Average Testing Time (minutes)
+
+10
+
+minutes
+
+Allowed Time (minutes)
+
+15
+
+minutes
+
+Maximum Number of Questions
+
+12
+
+questions
+
+Number of Sittings
+
+One
+
+Test Type
+
+Sector
+
+Scores Reported
+
+Multiple Choice - CTT
+
+Information Technology
+
+• Overall Score 
+• Fundamentals of C++  
+• OOPS Concepts  
+• File and Exception Handling
+
+O*NET Competency
+
+Programming
+
+Knowledge, Skills, 
+Abilities And 
+Competencies 
+Measured
+
+The following areas are covered:
+
+• Basics of C++ 
+• Types and declarations 
+• Operators 
+• Pointers and arrays 
+• OOPs concepts 
+• File and streams 
+• Exceptions 
+• Templates
+
+© 2020 SHL and/or its affiliates. All rights reserved. | Page 1 of 1
+
+www.shl.com

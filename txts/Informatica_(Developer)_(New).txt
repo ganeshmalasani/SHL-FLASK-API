@@ -1,0 +1,92 @@
+Title: Informatica (Developer) (New)
+URL: https://www.shl.com/solutions/products/product-catalog/view/informatica-developer-new/
+
+Remote Testing: Yes
+Adaptive/IRT: No
+Test Type: K
+Languages: English (USA),
+Job Levels: Mid-Professional, Professional Individual Contributor,
+Assessment Length: Approximate Completion Time in minutes = 11
+
+Description:
+Multi-choice test that measures the knowledge of data warehousing, server architecture and administration, and real time implementation with Informatica.
+
+PDF Text:
+Informatica (Developer)
+Assessment Fact Sheet
+
+Overview
+
+Multi-choice test that measures the knowledge of data warehousing, server architecture and 
+administration, and real time implementation with Informatica.
+
+Relevant Job Roles
+
+Solution Architect - Informatica, Informatica Developer, 
+ETL Informatica Developer
+
+Details
+
+Language
+
+English (US)
+
+Average Testing Time (minutes)
+
+11
+
+minutes
+
+Allowed Time (minutes)
+
+15
+
+minutes
+
+Maximum Number of Questions
+
+12
+
+questions
+
+Number of Sittings
+
+One
+
+Test Type
+
+Sector
+
+Scores Reported
+
+Multiple Choice - CTT
+
+Information Technology
+
+• Overall Score 
+• Data Warehousing and Informatica Concepts  
+• Mapping Design and Loading Issues  
+• Transformation and Workﬂows
+
+O*NET Competency
+
+Business Intelligence and Data Analysis Software
+
+Knowledge, Skills, 
+Abilities And 
+Competencies 
+Measured
+
+The following areas are covered:
+
+• Informatica designer basic concepts 
+• Data warehousing 
+• Informatica architecture 
+• Transformations 
+• Workﬂows and worklets 
+• Mappings and mapplet designer 
+• Loading issues
+
+© 2020 SHL and/or its affiliates. All rights reserved. | Page 1 of 1
+
+www.shl.com

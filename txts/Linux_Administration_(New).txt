@@ -1,0 +1,93 @@
+Title: Linux Administration (New)
+URL: https://www.shl.com/solutions/products/product-catalog/view/linux-administration-new/
+
+Remote Testing: Yes
+Adaptive/IRT: No
+Test Type: K
+Languages: English (USA),
+Job Levels: Mid-Professional, Professional Individual Contributor,
+Assessment Length: Approximate Completion Time in minutes = 10
+
+Description:
+Multi-choice test that measures knowledge of the Linux operating system and its application in system administration and network administration.
+
+PDF Text:
+Linux Administration
+Assessment Fact Sheet
+
+Overview
+
+Multi-choice test that measures knowledge of the Linux operating system and its application in 
+system administration and network administration.
+
+Relevant Job Roles
+
+Linux Administrator, DevOps Engineer
+
+Details
+
+Language
+
+English (US)
+
+Average Testing Time (minutes)
+
+10
+
+minutes
+
+Allowed Time (minutes)
+
+15
+
+minutes
+
+Maximum Number of Questions
+
+18
+
+questions
+
+Number of Sittings
+
+One
+
+Test Type
+
+Sector
+
+Scores Reported
+
+Multiple Choice - CTT
+
+Information Technology
+
+• Overall Score 
+• Linux Installation and Commands  
+• System Administration  
+• Network Administration
+
+O*NET Competency
+
+Operating System Software
+
+Knowledge, Skills, 
+Abilities And 
+Competencies 
+Measured
+
+The following areas are covered:
+
+• Basic knowledge of Linux types 
+• Installing Linux server 
+• File system and partitions 
+• Linux commands 
+• Creating and managing user accounts 
+• Concept of kernels and processes 
+• Linux security 
+• Installing and conﬁguring network services 
+• External hardware
+
+© 2020 SHL and/or its affiliates. All rights reserved. | Page 1 of 1
+
+www.shl.com

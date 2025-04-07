@@ -1,0 +1,98 @@
+Title: SQL Server Analysis Services (SSAS) (New)
+URL: https://www.shl.com/solutions/products/product-catalog/view/sql-server-analysis-services-%28ssas%29-%28new%29/
+
+Remote Testing: Yes
+Adaptive/IRT: No
+Test Type: K
+Languages: English (USA),
+Job Levels: Mid-Professional, Professional Individual Contributor,
+Assessment Length: Approximate Completion Time in minutes = 15
+
+Description:
+Multi-choice test that measures the knowledge of SSAS database, querying multidimensional analysis solutions, cube hierarchies, measures, dimensions, power BI, DAX, MDX, tabular model data access and security.
+
+PDF Text:
+SQL Server Analysis Services (SSAS)
+Assessment Fact Sheet
+
+Overview
+
+Multi-choice test that measures the knowledge of SSAS database, querying multidimensional 
+analysis solutions, cube hierarchies, measures, dimensions, power BI, DAX, MDX, tabular model data 
+access and security.
+
+Relevant Job Roles
+
+Big Data Analyst - SSAS, Application Developer, SSAS 
+Developer
+
+Details
+
+Language
+
+English
+
+Average Testing Time (minutes)
+
+08
+
+minutes
+
+Allowed Time (minutes)
+
+15
+
+minutes
+
+Maximum Number of Questions
+
+12
+
+questions
+
+Number of Sittings
+
+One
+
+Test Type
+
+Sector
+
+Scores Reported
+
+Multiple Choice - CTT
+
+Information Technology
+
+• Overall Score 
+• SSAS and MDX 
+• Cubes and Dimensions 
+• Tabular Modeling
+
+O*NET Competency
+
+Database User Interface and Query Software
+
+Knowledge, Skills, 
+Abilities And 
+Competencies 
+Measured
+
+The following areas are covered:
+
+ • Designing a SQL server analysis services database 
+ • OLAP modeling 
+ • Querying multidimensional analysis solutions 
+ • Types of deployment 
+ • Cubes and dimensions 
+ • Cube hierarchies 
+ • Cube measures and measure groups and Cube security 
+ • Power BI and SSAS 
+ • Processing SSAS cube 
+ • Tabular modeling 
+ • Table measures and hierarchies 
+ • Data access and security
+
+© 2020 SHL and/or its affiliates. All rights reserved. | Page 1 of 1
+
+www.shl.com

@@ -1,0 +1,15 @@
+Title: Visual Comparison - UK
+URL: https://www.shl.com/solutions/products/product-catalog/view/visual-comparison-uk/
+
+Remote Testing: Yes
+Adaptive/IRT: No
+Test Type: K
+Languages: English International,
+Job Levels: Entry-Level,
+Assessment Length: Approximate Completion Time in minutes = 5
+
+Description:
+This assessment measures ability to efficiently compare information and detect errors. The test taker is required to examine four pairs of numbers and select the set of numbers that are notidentical.
+
+PDF Text:
+

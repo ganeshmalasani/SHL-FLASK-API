@@ -1,0 +1,95 @@
+Title: MongoDB (New)
+URL: https://www.shl.com/solutions/products/product-catalog/view/mongodb-new/
+
+Remote Testing: Yes
+Adaptive/IRT: No
+Test Type: K
+Languages: English (USA),
+Job Levels: Mid-Professional, Professional Individual Contributor,
+Assessment Length: Approximate Completion Time in minutes = 7
+
+Description:
+Multi-choice test that measures the conceptual knowledge of MongoDB like sharding, replication, indexing, security and storage. It also checks the knowledge of MongoDB queries and data models.
+
+PDF Text:
+MongoDB
+Assessment Fact Sheet
+
+Overview
+
+Multi-choice test that measures the conceptual knowledge of MongoDB like sharding, replication, 
+indexing, security and storage. It also checks the knowledge of MongoDB queries and data models.
+
+Relevant Job Roles
+
+Solutions Architect, Software Development Engineer, 
+Database Administrator
+
+Details
+
+Language
+
+English (US)
+
+Average Testing Time (minutes)
+
+07
+
+minutes
+
+Allowed Time (minutes)
+
+15
+
+minutes
+
+Maximum Number of Questions
+
+12
+
+questions
+
+Number of Sittings
+
+One
+
+Test Type
+
+Sector
+
+Scores Reported
+
+Multiple Choice - CTT
+
+Information Technology
+
+• Overall Score 
+• Mongo Concept  
+• MongoDB Queries  
+• MongoDB Data Models
+
+O*NET Competency
+
+Database User Interface and Query Software
+
+Knowledge, Skills, 
+Abilities And 
+Competencies 
+Measured
+
+The following areas are covered:
+
+• Mongo concept 
+• Indexing 
+• Replication 
+• Sharding 
+• Security and Mongo storage 
+• MongoDB CRUD operations and concepts 
+• Query plan, performance, and analysis 
+• Data modelling concepts 
+• Document validation 
+• Security
+
+© 2020 SHL and/or its affiliates. All rights reserved. | Page 1 of 1
+
+www.shl.com

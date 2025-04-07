@@ -1,0 +1,97 @@
+Title: Econometrics (New)
+URL: https://www.shl.com/solutions/products/product-catalog/view/econometrics-new/
+
+Remote Testing: Yes
+Adaptive/IRT: No
+Test Type: K
+Languages: English (USA),
+Job Levels: Graduate, Mid-Professional, Professional Individual Contributor,
+Assessment Length: Approximate Completion Time in minutes = 11
+
+Description:
+Multi-choice test that measures the knowledge of statistical concepts, exploratory analysis and statistical testing required to analyze economic data.
+
+PDF Text:
+Econometrics
+Assessment Fact Sheet
+
+Overview
+
+Multi-choice test that measures the knowledge of statistical concepts, exploratory analysis and 
+statistical testing required to analyze economic data.
+
+Relevant Job Roles
+
+Economist, Financial Quantitative Analyst, Economic 
+Consultant, Revenue Research Analyst
+
+Details
+
+Language
+
+English (US)
+
+Average Testing Time (minutes)
+
+11
+
+minutes
+
+Allowed Time (minutes)
+
+20
+
+minutes
+
+Maximum Number of Questions
+
+12
+
+questions
+
+Number of Sittings
+
+One
+
+Test Type
+
+Sector
+
+Scores Reported
+
+Multiple Choice - CTT
+
+Business
+
+• Overall Score 
+• Simple Linear Regression 
+ • Multiple Linear Regression 
+ • Violations of Classical Assumptions
+
+Knowledge, Skills, 
+Abilities And 
+Competencies 
+Measured
+
+O*NET Competency
+
+Mathematics
+
+The following areas are covered:
+
+• Correlation and regression 
+• Formulating null & alternate hypothesis 
+• Type I and Type II errors 
+• Statistical tests (z-test/t-test) and p-value 
+• Multi-variate analysis and conﬁdence intervals 
+• F-test & ANOVA 
+• Chi-square distribution 
+• Multivariable regression  
+• Extension of two variable model  
+• Heteroscedasticity, Speciﬁcation bias and Multicollinearity 
+• Two variable hypothesis and two variable hypothesis testing  
+• Autocorrelation
+
+© 2020 SHL and/or its affiliates. All rights reserved. | Page 1 of 1
+
+www.shl.com

@@ -1,0 +1,92 @@
+Title: Cisco AppDynamics (New)
+URL: https://www.shl.com/solutions/products/product-catalog/view/cisco-appdynamics-new/
+
+Remote Testing: Yes
+Adaptive/IRT: No
+Test Type: K
+Languages: English (USA),
+Job Levels: Mid-Professional, Professional Individual Contributor,
+Assessment Length: Approximate Completion Time in minutes = 9
+
+Description:
+Multi-choice test that measures the knowledge of application analytics, performance management, and AppDynamics essentials like controller UI, custom dashboard, reports and monitoring.
+
+PDF Text:
+Cisco AppDynamics
+Assessment Fact Sheet
+
+Overview
+
+Multi-choice test that measures the knowledge of application analytics, performance management, 
+and AppDynamics essentials like controller UI, custom dashboard, reports and monitoring.
+
+Relevant Job Roles
+
+Performance Engineer - AppDynamics, AppDynamics 
+Developer
+
+Details
+
+Language
+
+English (US)
+
+Average Testing Time (minutes)
+
+09
+
+minutes
+
+Allowed Time (minutes)
+
+15
+
+minutes
+
+Maximum Number of Questions
+
+12
+
+questions
+
+Number of Sittings
+
+One
+
+Test Type
+
+Sector
+
+Scores Reported
+
+Multiple Choice - CTT
+
+Information Technology
+
+• Overall Score 
+• Analytics & Performance Management  
+• AppDynamics Essentials  
+• Monitoring
+
+Knowledge, Skills, 
+Abilities And 
+Competencies 
+Measured
+
+The following areas are covered:
+
+• Controller UI 
+• Metrics and graphs 
+• Monitoring events and infrastructure 
+• Custom dashboards and reports 
+• Alert and respond 
+• Database monitoring 
+• Server monitoring 
+• End-user monitoring 
+• Business applications and transactions 
+• Application performance management 
+• Application analytics
+
+© 2020 SHL and/or its affiliates. All rights reserved. | Page 1 of 1
+
+www.shl.com

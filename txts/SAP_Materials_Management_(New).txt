@@ -1,0 +1,98 @@
+Title: SAP Materials Management (New)
+URL: https://www.shl.com/solutions/products/product-catalog/view/sap-materials-management-new/
+
+Remote Testing: Yes
+Adaptive/IRT: No
+Test Type: K
+Languages: English (USA),
+Job Levels: Mid-Professional, Professional Individual Contributor,
+Assessment Length: Approximate Completion Time in minutes = 10
+
+Description:
+Multi-choice test that measures the knowledge of SAP materials management, organization units integration, purchasing, pricing, release procedure, contracts, inventory management, invoice verification, split valuation, account determination and integration of materials management with other modules.
+
+PDF Text:
+SAP Materials Management
+Assessment Fact Sheet
+
+Overview
+
+Multi-choice test that measures the knowledge of SAP materials management, organization units 
+integration, purchasing, pricing, release procedure, contracts, inventory management, invoice 
+veriﬁcation, split valuation, account determination and integration of materials management with 
+other modules.
+
+Relevant Job Roles
+
+SAP MM - Developer, SAP MM - Consultant
+
+Details
+
+Language
+
+English (US)
+
+Average Testing Time (minutes)
+
+10
+
+minutes
+
+Allowed Time (minutes)
+
+15
+
+minutes
+
+Maximum Number of Questions
+
+15
+
+questions
+
+Number of Sittings
+
+One
+
+Test Type
+
+Sector
+
+Scores Reported
+
+Multiple Choice - CTT
+
+Software Skills
+
+• Overall Score 
+• MM and Enterprise  
+• MM Procurement Process  
+• Inventory and Invoice  
+• Valuation and Account Determination
+
+Knowledge, Skills, 
+Abilities And 
+Competencies 
+Measured
+
+O*NET Competency
+
+ERP Software
+
+The following areas are covered:
+
+• Structure and conﬁgurations 
+• Organization units and integration 
+• Master data 
+• Procurement cycle 
+• Purchasing and pricing 
+• Contracts 
+• Release procedure 
+• Subcontracting and consignment process 
+• Inventory management 
+• Perform invoice veriﬁcation 
+• Split valuation and account determination
+
+© 2020 SHL and/or its affiliates. All rights reserved. | Page 1 of 1
+
+www.shl.com

@@ -1,0 +1,90 @@
+Title: Cyber Risk (New)
+URL: https://www.shl.com/solutions/products/product-catalog/view/cyber-risk-new/
+
+Remote Testing: Yes
+Adaptive/IRT: No
+Test Type: K
+Languages: English (USA),
+Job Levels: Manager, Mid-Professional, Professional Individual Contributor, Supervisor,
+Assessment Length: Approximate Completion Time in minutes = 9
+
+Description:
+Multi-choice test that measures the knowledge of cyber risk management, system and application security, network security and security management.
+
+PDF Text:
+Cyber Risk
+Assessment Fact Sheet
+
+Overview
+
+Multi-choice test that measures the knowledge of cyber risk management, system and application 
+security, network security and security management.
+
+Relevant Job Roles
+
+Cyber Security manager, Cyber Security Analyst, Cyber 
+Security Engineer, Cyber Risk Analyst
+
+Details
+
+Language
+
+English (US)
+
+Average Testing Time (minutes)
+
+09
+
+minutes
+
+Allowed Time (minutes)
+
+15
+
+minutes
+
+Maximum Number of Questions
+
+12
+
+questions
+
+Number of Sittings
+
+One
+
+Test Type
+
+Sector
+
+Scores Reported
+
+Multiple Choice - CTT
+
+Information Technology
+
+• Overall Score 
+• Cyber Risk Management  
+• System and Application Security  
+• Network Security  
+• Security Management
+
+Knowledge, Skills, 
+Abilities And 
+Competencies 
+Measured
+
+The following areas are covered:
+
+• Security threats and guidelines 
+• Risk assessment and prevention 
+• System security 
+• Application security 
+• Network security 
+• Identity and access management 
+• Security policies and management 
+• Cryptography
+
+© 2020 SHL and/or its affiliates. All rights reserved. | Page 1 of 1
+
+www.shl.com

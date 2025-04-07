@@ -1,0 +1,92 @@
+Title: Apache Kafka (New)
+URL: https://www.shl.com/solutions/products/product-catalog/view/apache-kafka-new/
+
+Remote Testing: Yes
+Adaptive/IRT: No
+Test Type: K
+Languages: English (USA),
+Job Levels: Mid-Professional, Professional Individual Contributor,
+Assessment Length: Approximate Completion Time in minutes = 6
+
+Description:
+Multi-choice test that measures the knowledge of Apache Kafka architecture, components, clusters, performance tuning and advanced operations.
+
+PDF Text:
+Apache Kafka
+Assessment Fact Sheet
+
+Overview
+
+Multi-choice test that measures the knowledge of Apache Kafka architecture, components, clusters, 
+performance tuning and advanced operations.
+
+Relevant Job Roles
+
+Big Data Developer, Big Data Engineer - Kafka, Kafka 
+Developer, Software Engineer
+
+Details
+
+Language
+
+English (US)
+
+Average Testing Time (minutes)
+
+06
+
+minutes
+
+Allowed Time (minutes)
+
+10
+
+minutes
+
+Maximum Number of Questions
+
+07
+
+questions
+
+Number of Sittings
+
+One
+
+Test Type
+
+Sector
+
+Scores Reported
+
+Multiple Choice - CTT
+
+Information Technology
+
+• Overall Score 
+• Architecture and Components  
+• Operations and Performance Tuning  
+• Advanced Operations
+
+O*NET Competency
+
+Data Science/Big Data
+
+Knowledge, Skills, 
+Abilities And 
+Competencies 
+Measured
+
+The following areas are covered:
+
+• Kafka architecture and installation 
+• Kafka components 
+• Kafka cluster 
+• Kafka operations 
+• Mirroring and replication 
+• Integration with Apache Hadoop, Spark and Storm 
+• Monitoring and performance tuning
+
+© 2020 SHL and/or its affiliates. All rights reserved. | Page 1 of 1
+
+www.shl.com

@@ -1,0 +1,95 @@
+Title: Computer Science (New)
+URL: https://www.shl.com/solutions/products/product-catalog/view/computer-science-new/
+
+Remote Testing: Yes
+Adaptive/IRT: No
+Test Type: K
+Languages: English (USA),
+Job Levels: Mid-Professional, Professional Individual Contributor,
+Assessment Length: Approximate Completion Time in minutes = 12
+
+Description:
+Multi-choice test that measures the knowledge of operating system, computer architecture, DBMS and basics of computer networks and communication.
+
+PDF Text:
+Computer Science
+Assessment Fact Sheet
+
+Overview
+
+Multi-choice test that measures the knowledge of operating system, computer architecture, DBMS 
+and basics of computer networks and communication.
+
+Relevant Job Roles
+
+Software Engineer, Big Data Engineer, Research Engineer, 
+DevOps Engineer
+
+Details
+
+Language
+
+English (US)
+
+Average Testing Time (minutes)
+
+12
+
+minutes
+
+Allowed Time (minutes)
+
+20
+
+minutes
+
+Maximum Number of Questions
+
+20
+
+questions
+
+Number of Sittings
+
+One
+
+Test Type
+
+Sector
+
+Scores Reported
+
+Multiple Choice - CTT
+
+Information Technology
+
+• Overall Score 
+• OS and Computer Architecture  
+• DBMS  
+• Computer Networks
+
+Knowledge, Skills, 
+Abilities And 
+Competencies 
+Measured
+
+O*NET Competency
+
+Computers and Electronics
+
+The following areas are covered:
+
+• Computer architecture  
+• Basics of operating system 
+• I/O and ﬁle management 
+• Memory and process management 
+• Process communication and synchronization 
+• Basic DBMS concepts, data model, views, operation, TRC, DRC, architecture 
+• Normalization, generalization, ERD, key, database, SQL, joins, indexing 
+• Basics of computer networks and communication 
+• Routing 
+• Reference network model and protocols
+
+© 2020 SHL and/or its affiliates. All rights reserved. | Page 1 of 1
+
+www.shl.com

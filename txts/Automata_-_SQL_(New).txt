@@ -1,0 +1,81 @@
+Title: Automata - SQL (New)
+URL: https://www.shl.com/solutions/products/product-catalog/view/automata-sql-new/
+
+Remote Testing: Yes
+Adaptive/IRT: No
+Test Type: S
+Languages: English (USA),
+Job Levels: Mid-Professional, Professional Individual Contributor,
+Assessment Length: Approximate Completion Time in minutes = max 30
+
+Description:
+A simulated query writing test that measures the ability to write SQL queries to perform DDL, DML and DCL tasks.
+
+PDF Text:
+Automata - SQL
+Assessment Fact Sheet
+
+Overview
+
+Simulation based test that measures the ability to write SQL queries to perform DDL, DML and DCL 
+tasks.
+
+Relevant Job Roles
+
+Data Architect, Database Administration Manager, 
+Database Administrator (DBA), Database Analyst, 
+Database Coordinator, Database Developer, Database 
+Programmer, Information Systems Manager, Management 
+Information Systems Director (MIS Director), System 
+Administrator
+
+Details
+
+Language
+
+English
+
+Average Testing Time (minutes)
+
+27
+
+minutes
+
+Allowed Time (minutes)
+
+30
+
+minutes
+
+Maximum Number of Questions
+
+7
+
+questions
+
+Number of Sittings
+
+One
+
+Test Type
+
+Sector
+
+Scores Reported
+
+Simulation
+
+Technology
+
+• Overall Score
+• Select Queries
+• Update Queries
+• Alter Queries
+
+O*NET Competency
+
+Database User Interface and Query Software
+
+© 2020 SHL and/or its affiliates. All rights reserved. | Page 1 of 1
+
+www.shl.com

@@ -1,0 +1,83 @@
+Title: Automata Pro (New)
+URL: https://www.shl.com/solutions/products/product-catalog/view/automata-pro-new/
+
+Remote Testing: Yes
+Adaptive/IRT: No
+Test Type: S
+Languages: English (USA),
+Job Levels: Mid-Professional, Professional Individual Contributor,
+Assessment Length: Approximate Completion Time in minutes = max 60
+
+Description:
+An AI-powered coding simulation assessment that evaluates candidate’s programming ability. Offers a familiar IDE environment available in over 40 different programming languages and tests candidates using real-world coding problems. 
+ 
+Your use of this assessment product may be subject to New York City Law 144 (Regulation of the Use of Automated Employment Decision Tools) (dated July 5, 2023). Compliance with Law 144 is your responsibility.
+Read more on https://www.shl.com/legal/shl-us-regulatory-compliance/
+
+PDF Text:
+Automata Pro
+Assessment Fact Sheet
+
+Overview
+
+An AI-powered coding simulation assessment that evaluates candidate’s programming ability. Oﬀers 
+a familiar IDE environment available in over 40 diﬀerent programming languages and tests 
+candidates using real-world coding problems.
+
+Relevant Job Roles
+
+Application Developer, Application Integration Engineer,
+Information Technology Analyst, Software Developer,
+Technical Consultant, Computer Programmer, Java Developer,
+Web Applications Programmer
+
+Details
+
+Language
+
+English
+
+Average Testing Time (minutes)
+
+46
+
+minutes
+
+Allowed Time (minutes)
+
+60
+
+minutes
+
+Maximum Number of Questions
+
+2
+
+questions
+
+Number of Sittings
+
+One
+
+Test Type
+
+Sector
+
+Scores Reported
+
+Simulation
+
+Technology
+
+• Overall Score
+• Programming Ability
+• Functional Correctness
+• Programming Practices
+
+O*NET Competency
+
+Coding
+
+© 2020 SHL and/or its affiliates. All rights reserved. | Page 1 of 1
+
+www.shl.com

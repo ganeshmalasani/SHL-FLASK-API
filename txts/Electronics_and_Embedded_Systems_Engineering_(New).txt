@@ -1,0 +1,99 @@
+Title: Electronics and Embedded Systems Engineering (New)
+URL: https://www.shl.com/solutions/products/product-catalog/view/electronics-and-embedded-systems-engineering-new/
+
+Remote Testing: Yes
+Adaptive/IRT: No
+Test Type: K
+Languages: English (USA),
+Job Levels: Graduate, Mid-Professional, Professional Individual Contributor,
+Assessment Length: Approximate Completion Time in minutes = 18
+
+Description:
+Multi-choice test that measures the candidate’s knowledge and understanding on concepts like embedded systems and, analog and digital electronics.
+
+PDF Text:
+Electronics and Embedded Systems Engineering
+Assessment Fact Sheet
+
+Overview
+
+Multi-choice test that measures the candidate’s knowledge and understanding on concepts like 
+embedded systems and, analog and digital electronics.
+
+Relevant Job Roles
+
+Software Developer, Embedded Systems Engineer, 
+Electronics Engineering Technologist, Electronics 
+Engineering Technician
+
+Details
+
+Language
+
+English (US)
+
+Average Testing Time (minutes)
+
+18
+
+minutes
+
+Allowed Time (minutes)
+
+20
+
+minutes
+
+Maximum Number of Questions
+
+18
+
+questions
+
+Number of Sittings
+
+One
+
+Test Type
+
+Sector
+
+Scores Reported
+
+Multiple Choice - CTT
+
+Engineering
+
+• Overall Score 
+• Analog Electronics  
+• Digital Electronics  
+• Embedded Systems
+
+Knowledge, Skills, 
+Abilities And 
+Competencies 
+Measured
+
+O*NET Competency
+
+Engineering and Technology
+
+The following areas are covered:
+
+• Boolean algebra  
+• Logic families 
+• Combinational circuits 
+• Sequential circuits 
+• Oscillators and feedback 
+• Op-amps 
+• Filters 
+• Basics of VLSI  
+• Architecture of embedded processor and microcontrollers 
+• RTOS based embedded systems 
+• Designing of embedded systems 
+• Implementation of operators and expressions in embedded systems 
+• Programming of embedded systems
+
+© 2020 SHL and/or its affiliates. All rights reserved. | Page 1 of 1
+
+www.shl.com

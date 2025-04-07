@@ -1,0 +1,106 @@
+Title: Desktop Support (New)
+URL: https://www.shl.com/solutions/products/product-catalog/view/desktop-support-new/
+
+Remote Testing: Yes
+Adaptive/IRT: No
+Test Type: K
+Languages: English (USA),
+Job Levels: Graduate, Mid-Professional, Professional Individual Contributor,
+Assessment Length: Approximate Completion Time in minutes = 8
+
+Description:
+Multi-choice test that measures the knowledge of networking, peripheral components, operating systems, troubleshooting and providing technical support.
+
+PDF Text:
+Desktop Support
+Assessment Fact Sheet
+
+Overview
+
+Multi-choice test that measures the knowledge of networking, peripheral components, operating 
+systems, troubleshooting and providing technical support.
+
+Relevant Job Roles
+
+Desktop Support Engineer, Desktop Support Specialist, 
+Desktop Support Lead, Desktop Support Technician
+
+Details
+
+Language
+
+English (US)
+
+Average Testing Time (minutes)
+
+08
+
+minutes
+
+Allowed Time (minutes)
+
+20
+
+minutes
+
+Maximum Number of Questions
+
+20
+
+questions
+
+Number of Sittings
+
+One
+
+Knowledge, Skills, 
+Abilities And 
+Competencies 
+Measured
+
+Test Type
+
+Sector
+
+Scores Reported
+
+Multiple Choice - CTT
+
+Information Technology
+
+• Overall Score 
+• Technical Support and Troubleshooting  
+• OS/Software Installation  
+• Networking Basics  
+• Peripheral Components Installation
+
+O*NET Competency
+
+Computers and Electronics
+
+The following areas are covered:
+
+• Troubleshooting desktop/laptop OS issues and email client related issues 
+• Perform root cause analysis for incidents 
+• Provide remote/ﬁeld support for OS, email client, MS Oﬃce & application. 
+• Installation/conﬁguration of email client, Outlook and other software applications 
+• Installation of antivirus (Symantec, MacAfee, SCEP) 
+• SCCM client installation 
+• Installation of OS Windows 7, 8, 10 and managing rights 
+• Basic knowledge of ADS, DNS, DHCP, VPN, Wi-Fi 
+• Handle IMACs (pre-approved, low impact – Install, Move, Add and Change) 
+• Transport and application layer 
+• Data communication components and physical layer 
+• Memory types (DDR2, SDRAM, etc.) 
+• Troubleshooting Windows problem: virus, BSOD, worm etc. 
+• Network setting on XP: TCP/IP, proxy setting etc. 
+• Basic architecture: bus, master-slave, etc. 
+• Troubleshooting devices and driver 
+• Security: ﬁrewall, antivirus, spyware 
+• Installation/re-installation /conﬁguration of systems, printers, scanners and troubleshooting 
+printer/scanner related issues 
+• Perform proactive maintenance of peripherals for reduction of operational issues
+
+© 2020 SHL and/or its affiliates. All rights reserved. | Page 1 of 1
+
+www.shl.com

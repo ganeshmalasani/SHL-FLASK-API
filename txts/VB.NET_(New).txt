@@ -1,0 +1,92 @@
+Title: VB.NET (New)
+URL: https://www.shl.com/solutions/products/product-catalog/view/vb-net-new/
+
+Remote Testing: Yes
+Adaptive/IRT: No
+Test Type: K
+Languages: English (USA),
+Job Levels: Mid-Professional, Professional Individual Contributor,
+Assessment Length: Approximate Completion Time in minutes = 10
+
+Description:
+Multi-choice test that measures the knowledge on the concepts of VB.NET assemblies, OOPs concepts, ADO.NET, multithreading, exception handling and GUI.
+
+PDF Text:
+VB.NET
+Assessment Fact Sheet
+
+Overview
+
+Multi-choice test that measures the knowledge on the concepts of VB.NET assemblies, OOPs 
+concepts, ADO.NET, multithreading, exception handling and GUI.
+
+Relevant Job Roles
+
+VB.Net Developer, Software Engineer, VB.Net Programmer
+
+Details
+
+Language
+
+English (US)
+
+Average Testing Time (minutes)
+
+10
+
+minutes
+
+Allowed Time (minutes)
+
+15
+
+minutes
+
+Maximum Number of Questions
+
+12
+
+questions
+
+Number of Sittings
+
+One
+
+Test Type
+
+Sector
+
+Scores Reported
+
+Multiple Choice - CTT
+
+Information Technology
+
+• Overall Score 
+• VB.NET Basics 
+• ADO.Net and Multithreading 
+• OOPS Concepts  
+• Windows Controls and Services
+
+O*NET Competency
+
+Programming
+
+Knowledge, Skills, 
+Abilities And 
+Competencies 
+Measured
+
+The following areas are covered:
+
+• VB.NET Basics 
+• OOPS concepts 
+• Exception handling 
+• GUI features 
+• Multithreading 
+• ADO.NET 
+• Windows controls and services
+
+© 2020 SHL and/or its affiliates. All rights reserved. | Page 1 of 1
+
+www.shl.com

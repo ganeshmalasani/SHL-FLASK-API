@@ -1,0 +1,97 @@
+Title: BizTalk (New)
+URL: https://www.shl.com/solutions/products/product-catalog/view/biztalk-new/
+
+Remote Testing: Yes
+Adaptive/IRT: No
+Test Type: K
+Languages: English (USA),
+Job Levels: Mid-Professional, Professional Individual Contributor,
+Assessment Length: Approximate Completion Time in minutes = 16
+
+Description:
+Multi-choice test that measures the knowledge of BizTalk architecture, pipelines, adapters, business process techniques and BizTalk administration.
+
+PDF Text:
+BizTalk
+Assessment Fact Sheet
+
+Overview
+
+Multi-choice test that measures the knowledge of BizTalk architecture, pipelines, adapters, business 
+process techniques and BizTalk administration.
+
+Relevant Job Roles
+
+BizTalk Developer, Technical Architect/Designer - BizTalk, 
+Analyst Programmer - BizTalk
+
+Details
+
+Language
+
+English (US)
+
+Average Testing Time (minutes)
+
+16
+
+minutes
+
+Allowed Time (minutes)
+
+25
+
+minutes
+
+Maximum Number of Questions
+
+20
+
+questions
+
+Number of Sittings
+
+One
+
+Test Type
+
+Sector
+
+Scores Reported
+
+Multiple Choice - CTT
+
+Information Technology
+
+• Overall Score 
+• Basics of BizTalk  
+• Pipelines and Adaptors  
+• Business Process Techniques and Deployment
+
+Knowledge, Skills, 
+Abilities And 
+Competencies 
+Measured
+
+O*NET Competency
+
+Automation
+
+The following areas are covered:
+
+• Basic architecture 
+• Schemas and maps 
+• Message based solutions 
+• Pipelines 
+• Advanced orchestration design 
+• Adapters and hosts 
+• ESB and EDI 
+• BizTalk business process 
+• Process techniques 
+• Deploying BizTalk applications 
+• Managing logic using Business Rules Engine (BRE) 
+• BizTalk administration
+
+© 2020 SHL and/or its affiliates. All rights reserved. | Page 1 of 1
+
+www.shl.com

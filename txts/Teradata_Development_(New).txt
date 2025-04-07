@@ -1,0 +1,15 @@
+Title: Teradata Development (New)
+URL: https://www.shl.com/solutions/products/product-catalog/view/teradata-development-new/
+
+Remote Testing: Yes
+Adaptive/IRT: No
+Test Type: K
+Languages: English (USA),
+Job Levels: Mid-Professional, Professional Individual Contributor,
+Assessment Length: Approximate Completion Time in minutes = 9
+
+Description:
+Multi-choice test that measures the knowledge on Teradata concepts of RDBMS components, performance availability features, utilities, workload management, basic extensions, logical expressions, subqueries, SQL optimization, physical database design, table partitioning, query analysis and indexes.
+
+PDF Text:
+

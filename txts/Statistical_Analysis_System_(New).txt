@@ -1,0 +1,94 @@
+Title: Statistical Analysis System (New)
+URL: https://www.shl.com/solutions/products/product-catalog/view/statistical-analysis-system-new/
+
+Remote Testing: Yes
+Adaptive/IRT: No
+Test Type: K
+Languages: English (USA),
+Job Levels: Mid-Professional, Professional Individual Contributor,
+Assessment Length: Approximate Completion Time in minutes = 11
+
+Description:
+Multi-choice test that measures the ability to use the SAS software for statistical analysis.
+
+PDF Text:
+Statistical Analysis System
+Assessment Fact Sheet
+
+Overview
+
+Multi-choice test that measures the ability to use the SAS software for statistical analysis.
+
+Relevant Job Roles
+
+Business Analyst, Data Analyst, Statistician, Psychometric 
+Consultant, Quantitative Methodologist
+
+Details
+
+Language
+
+English (US)
+
+Average Testing Time (minutes)
+
+11
+
+minutes
+
+Allowed Time (minutes)
+
+15
+
+minutes
+
+Maximum Number of Questions
+
+10
+
+questions
+
+Number of Sittings
+
+One
+
+Test Type
+
+Sector
+
+Scores Reported
+
+Multiple Choice - CTT
+
+Software Skills
+
+• Overall Score 
+• Base SAS  
+• SAS Analytics  
+• Advanced SAS
+
+Knowledge, Skills, 
+Abilities And 
+Competencies 
+Measured
+
+O*NET Competency
+
+Analytical or scientiﬁc software
+
+The following areas are covered:
+
+• Introduction and SAS libraries 
+• New merged ﬁles and advanced dataset conditionality 
+• Reading, importing datasets and error resolution 
+• SAS formats, informats, arrays and loops 
+• SAS options, functions and procedures 
+• Advanced regression techniques like UCM/Gaussian mixture models 
+• Linear regression, logistic regression and time series in SAS 
+• Variable reduction techniques 
+• SAS macros and advanced macro functionalities within SQL 
+• SQL in SAS (including nested queries)
+
+© 2020 SHL and/or its affiliates. All rights reserved. | Page 1 of 1
+
+www.shl.com

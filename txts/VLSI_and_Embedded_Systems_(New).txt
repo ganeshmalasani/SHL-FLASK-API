@@ -1,0 +1,92 @@
+Title: VLSI and Embedded Systems (New)
+URL: https://www.shl.com/solutions/products/product-catalog/view/vlsi-and-embedded-systems-new/
+
+Remote Testing: Yes
+Adaptive/IRT: No
+Test Type: K
+Languages: English (USA),
+Job Levels: Mid-Professional, Professional Individual Contributor,
+Assessment Length: Approximate Completion Time in minutes = 9
+
+Description:
+Multi-choice test that measures the knowledge of VLSI and embedded systems basics.
+
+PDF Text:
+VLSI and Embedded Systems
+Assessment Fact Sheet
+
+Overview
+
+Multi-choice test that measures the knowledge of VLSI and embedded systems basics.
+
+Relevant Job Roles
+
+VLSI Engineer, Embedded Systems Engineer
+
+Details
+
+Language
+
+English (US)
+
+Average Testing Time (minutes)
+
+09
+
+minutes
+
+Allowed Time (minutes)
+
+15
+
+minutes
+
+Maximum Number of Questions
+
+12
+
+questions
+
+Number of Sittings
+
+One
+
+Test Type
+
+Sector
+
+Scores Reported
+
+Multiple Choice - CTT
+
+Information Technology
+
+• Overall Score 
+• VLSI  
+• Embedded Systems  
+• Digital Signal Processing
+
+Knowledge, Skills, 
+Abilities And 
+Competencies 
+Measured
+
+O*NET Competency
+
+Engineering and Technology
+
+The following areas are covered:
+
+• MOS logic circuits: combinational and sequential circuits 
+• MOS technologies 
+• Programmable logic devices 
+• Architecture of embedded processors 
+• Programming of embedded systems 
+• RTOS based embedded systems 
+• Frequency transforms 
+• FIR and IIR ﬁlters 
+• Digital signal processing applications
+
+© 2020 SHL and/or its affiliates. All rights reserved. | Page 1 of 1
+
+www.shl.com

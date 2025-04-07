@@ -1,0 +1,96 @@
+Title: .NET WPF (New)
+URL: https://www.shl.com/solutions/products/product-catalog/view/net-wpf-new/
+
+Remote Testing: Yes
+Adaptive/IRT: No
+Test Type: K
+Languages: English (USA),
+Job Levels: Mid-Professional, Professional Individual Contributor,
+Assessment Length: Approximate Completion Time in minutes = 9
+
+Description:
+Multi-choice test that measures the knowledge of .NET basics, WPF, XAML controls, events, layouts, working with WPF windows/menus and deploying WPF applications.
+
+PDF Text:
+.NET WPF
+Assessment Fact Sheet
+
+Overview
+
+Multi-choice test that measures the knowledge of .NET basics, WPF, XAML controls, events, layouts, 
+working with WPF windows/menus and deploying WPF applications.
+
+Relevant Job Roles
+
+.Net WPF Developer, Software Developer - WPF, Software 
+Engineer, Application Developer, Technical Architect, Full 
+Stack Developer
+
+Details
+
+Language
+
+English (US)
+
+Average Testing Time (minutes)
+
+09
+
+minutes
+
+Allowed Time (minutes)
+
+15
+
+minutes
+
+Maximum Number of Questions
+
+11
+
+questions
+
+Number of Sittings
+
+One
+
+Test Type
+
+Sector
+
+Scores Reported
+
+Multiple Choice - CTT
+
+Information Technology
+
+• Overall Score 
+• Introduction to .NET  
+• WPF Features and XAML  
+• Structure and Deployment
+
+O*NET Competency
+
+Programming
+
+The following areas are covered:
+
+• Language fundamentals, control statements and methods 
+• Object-oriented programming and exception handling 
+• Collections 
+• Application and user interface 
+• XAML and its layout elements and events 
+• Working with WPF controls, styles, triggers and control templates 
+• Working with WPF windows and menus 
+• Working with multimedia, graphics and animations 
+• Data binding, commands and MVVM 
+• Deploying WPF applications
+
+Knowledge, Skills, 
+Abilities And 
+Competencies 
+Measured
+
+© 2020 SHL and/or its affiliates. All rights reserved. | Page 1 of 1
+
+www.shl.com

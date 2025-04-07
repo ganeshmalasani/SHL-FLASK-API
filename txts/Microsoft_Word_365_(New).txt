@@ -1,0 +1,15 @@
+Title: Microsoft Word 365 (New)
+URL: https://www.shl.com/solutions/products/product-catalog/view/microsoft-word-365-new/
+
+Remote Testing: Yes
+Adaptive/IRT: No
+Test Type: S, K
+Languages: English (USA),
+Job Levels: Entry-Level,
+Assessment Length: Approximate Completion Time in minutes = 35
+
+Description:
+The Microsoft Word 365 simulation evaluates ability to perform certain operations in a simulated environment of Microsoft Word, and includes the following topics: Applying Illustrations and Graphics, Applying Page Layout, Creating Content, Creating, Printing, and Saving Documents, Formatting Content, Proofreading Documents and Reviewing, Maintaining, and Securing Documents.
+
+PDF Text:
+

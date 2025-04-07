@@ -1,0 +1,96 @@
+Title: SQL Server Integration Services (SSIS) (New)
+URL: https://www.shl.com/solutions/products/product-catalog/view/sql-server-integration-services-ssis-new/
+
+Remote Testing: Yes
+Adaptive/IRT: No
+Test Type: K
+Languages: English (USA),
+Job Levels: Mid-Professional, Professional Individual Contributor,
+Assessment Length: Approximate Completion Time in minutes = 10
+
+Description:
+Multi-choice test that measures the knowledge of SSIS architecture, components, control flow, data flow, transformation, SQL server tasks, SSIS administration, debugging, logging, security deployment, performance, package scheduling, execution and configuration.
+
+PDF Text:
+SQL Server Integration Services (SSIS)
+Assessment Fact Sheet
+
+Overview
+
+Multi-choice test that measures the knowledge of SSIS architecture, components, control ﬂow, data 
+ﬂow, transformation, SQL server tasks, SSIS administration, debugging, logging, security deployment, 
+performance, package scheduling, execution and conﬁguration.
+
+Relevant Job Roles
+
+SSIS Developer, Application Developer
+
+Details
+
+Language
+
+English (US)
+
+Average Testing Time (minutes)
+
+10
+
+minutes
+
+Allowed Time (minutes)
+
+15
+
+minutes
+
+Maximum Number of Questions
+
+12
+
+questions
+
+Number of Sittings
+
+One
+
+Test Type
+
+Sector
+
+Scores Reported
+
+Multiple Choice - CTT
+
+Information Technology
+
+• Overall Score 
+• Architecture  
+• Data Flow and Tasks  
+• SSIS Administration
+
+O*NET Competency
+
+Database User Interface and Query Software
+
+Knowledge, Skills, 
+Abilities And 
+Competencies 
+Measured
+
+The following areas are covered:
+
+• Fundamentals and architecture 
+• Components 
+• Control ﬂow 
+• Data ﬂow 
+• Transformation 
+• SQL server tasks 
+• Debugging and error handling 
+• Logging, transaction management and conﬁguration 
+• Security and deployment 
+• Performance tuning 
+• Package scheduling, execution and conﬁguration
+
+© 2020 SHL and/or its affiliates. All rights reserved. | Page 1 of 1
+
+www.shl.com

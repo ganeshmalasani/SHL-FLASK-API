@@ -1,0 +1,107 @@
+Title: .NET Framework 4.5
+URL: https://www.shl.com/solutions/products/product-catalog/view/net-framework-4-5/
+
+Remote Testing: Yes
+Adaptive/IRT: Yes
+Test Type: K
+Languages: English (USA),
+Job Levels: Professional Individual Contributor, Mid-Professional,
+Assessment Length: Approximate Completion Time in minutes = 30
+
+Description:
+The.NET Framework 4.5 test measures knowledge of .NET environment. Designed for experienced users, this test covers the following topics: Application Development, Application Foundation, Data Modeling, Deployment, Diagnostics, Performance, Portability, and Security.
+
+PDF Text:
+.NET Framework 4.5 
+
+Assessment Fact Sheet 
+
+Overview 
+
+The .NET Framework 4.5 test measures knowledge of .NET environment. Designed for experienced 
+users. 
+
+Job Family/Title 
+
+Programmers, Application Developers 
+
+Details 
+
+Average Testing Time (minutes) 
+
+Allowed Time (minutes) 
+
+26 minutes 
+
+90 minutes 
+
+Maximum Number of Questions 
+
+30 questions 
+
+Number of Sittings 
+
+Designed for Unproctored Environment 
+
+One 
+
+Yes 
+
+Question Format 
+
+Product Category 
+
+Multiple Choice - Adaptive 
+
+Information Technology 
+
+Knowledge, 
+Skills, Abilities 
+and 
+Competencies 
+Measured 
+
+The following areas are covered: 
+
+  Application Development 
+
+  Application Foundations 
+
+  Data Modelling 
+
+  Deployment 
+
+  Diagnostics 
+
+  Performance 
+
+  Portability 
+
+  Security 
+
+© 2018 SHL and/or its affiliates. All rights reserved. | Page 1 of 2 
+
+www.shl.com 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Example 
+Questions 
+
+Example 
+Reports 
+
+© 2018 SHL and/or its affiliates. All rights reserved. | Page 2 of 2 
+
+www.shl.com

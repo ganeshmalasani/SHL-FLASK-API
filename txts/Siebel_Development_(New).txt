@@ -1,0 +1,90 @@
+Title: Siebel Development (New)
+URL: https://www.shl.com/solutions/products/product-catalog/view/siebel-development-new/
+
+Remote Testing: Yes
+Adaptive/IRT: No
+Test Type: K
+Languages: English (USA),
+Job Levels: Mid-Professional, Professional Individual Contributor,
+Assessment Length: Approximate Completion Time in minutes = 8
+
+Description:
+Multi-choice test that measures the knowledge of Siebel basics, architecture server administration, access control, Siebel client and web applications, Siebel models, data mapping, workflow and deployment.
+
+PDF Text:
+Siebel Development
+Assessment Fact Sheet
+
+Overview
+
+Multi-choice test that measures the knowledge of Siebel basics, architecture server administration, 
+access control, Siebel client and web applications, Siebel models, data mapping, workﬂow and 
+deployment.
+
+Relevant Job Roles
+
+Package Specialist - Siebel, Siebel Developer, Siebel 
+Admin, Siebel Consultant
+
+Details
+
+Language
+
+English (US)
+
+Average Testing Time (minutes)
+
+08
+
+minutes
+
+Allowed Time (minutes)
+
+15
+
+minutes
+
+Maximum Number of Questions
+
+12
+
+questions
+
+Number of Sittings
+
+One
+
+Test Type
+
+Sector
+
+Scores Reported
+
+Multiple Choice - CTT
+
+Information Technology
+
+• Overall Score 
+• Architecture and Server Management  
+• Views, Application and UI  
+• Data Model and Workﬂows
+
+Knowledge, Skills, 
+Abilities And 
+Competencies 
+Measured
+
+The following areas are covered:
+
+• Siebel client and web application architecture 
+• UI layer and layer conﬁguration 
+• Access control on data, views and applications 
+• Server management, commands, objects and tools 
+• Architecture, ﬁle system, and server 
+• Workﬂows, workﬂow processes and policies 
+• Data model and data mapping 
+• Assignment and deployment manager
+
+© 2020 SHL and/or its affiliates. All rights reserved. | Page 1 of 1
+
+www.shl.com

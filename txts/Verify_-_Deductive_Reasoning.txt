@@ -1,0 +1,101 @@
+Title: Verify - Deductive Reasoning
+URL: https://www.shl.com/solutions/products/product-catalog/view/verify-deductive-reasoning/
+
+Remote Testing: Yes
+Adaptive/IRT: Yes
+Test Type: A
+Languages: Arabic, French (Canada), Portuguese (Brazil), Chinese Traditional, Chinese Simplified, Czech, Danish, Dutch, Finnish, French, German, Greek, Hungarian, Indonesian, English International, Italian, Japanese, Korean, Latin American Spanish, Polish, Portuguese, Romanian, Russian, Serbian, Slovak, Spanish, Swedish, Thai, Turkish, English (USA), Norwegian,
+Job Levels: Director, Entry-Level, Executive, Front Line Manager, General Population, Graduate, Manager, Mid-Professional, Professional Individual Contributor, Supervisor,
+Assessment Length: Approximate Completion Time in minutes = 20
+
+Description:
+The Verify Deductive Reasoning Test is an online ability assessment that can be used to support both pre- and post-hire assessment processes. It enables organisations to recruit and develop candidates applying for jobs at all levels that require deductive reasoning ability.
+
+The Deductive Reasoning Test is a new test in the SHL Verify range of ability tests, and measures the ability to:
+•	draw logical conclusions based on information provided
+•	identify strengths and weaknesses of arguments
+•	complete scenarios using incomplete information
+
+The test is 18 minutes long, has 20 items and is designed to provide an indication of how an individual will perform when asked to develop solutions when presented with information and draw sound conclusions from data.  
+
+This form of reasoning is commonly required to support work and decision-making in many different types of jobs and at many levels. Sample tasks for jobs that may require deductive reasoning include, but are not limited to:
+•	evaluate arguments
+•	analyse scenarios
+•	draw logical conclusions
+
+PDF Text:
+SHL Verify Deductive Reasoning
+Assessment Fact Sheet
+
+Overview
+Verify – Deductive Reasoning is an assessment used for job candidates applying to entry- 
+and midlevel positions that require deductive reasoning ability. It requires a candidate 
+to use their problem solving and reasoning skills, by asking them to evaluate arguments, 
+analyze scenarios, and draw logical conclusions.
+
+The Verify Deductive Reasoning test utilizes computer adaptive technology, offering the 
+following benefits:
+
+•  Shorter testing administration time
+
+•  Ability to offer the test in an unsupervised setting
+
+•  A more precise test score
+
+Job Family/Title  .....................................................................Verify
+
+Details
+Allowed Time ....................................................................... 20 minutes
+
+Maximum Number of Questions  ..................................... 18 questions
+
+Designed for Unproctored Environment  ........................ Yes
+
+Question Format  ................................................................ Multiple Choice, Adaptive
+
+Product Category  ............................................................... Ability & Aptitude
+
+Knowledge, Skills, Abilities and Competencies Measured
+The Deductive Reasoning assessment is designed to measure the ability to draw 
+logical conclusions based on information provided, identify strengths and weaknesses 
+of arguments, and complete scenarios using incomplete information. It provides an 
+indication of how an individual will perform when asked to develop solutions when 
+presented with information and draw sound conclusions from data.
+
+This form of reasoning is commonly required to support work and decision-making in 
+many different types of jobs at many levels.
+
+© 2022 SHL and its affiliates. All rights reserved. CST22_138shl.comExample Question
+
+Review the facts below:
+
+• 
+
+Jane drives a red car
+
+•  Susan drives a blue car
+
+•  There are no red cars in Ohio
+
+•  Blue cars get 33 miles per gallon of gasoline
+
+Based on the information above, which of the following MUST be true?
+
+A. 
+
+Jane lives in Ohio
+
+B.  Susan lives in Ohio
+
+C.  Red cars get 36 miles per gallon of gasoline
+
+D.  Susan’s car gets 33 miles per gallon of gasoline
+
+E. 
+
+Jane and Susan live in the same state
+
+The correct answer is D. Since blue cars get 33 miles per gallon of gasoline, the fact that 
+Susan drives a blue car means that her car gets 33 miles per gallon of gas.
+
+© 2022 SHL and its affiliates. All rights reserved. CST22_138shl.com

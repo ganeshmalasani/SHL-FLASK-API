@@ -1,0 +1,94 @@
+Title: Shell Scripting (New)
+URL: https://www.shl.com/solutions/products/product-catalog/view/shell-scripting-new/
+
+Remote Testing: Yes
+Adaptive/IRT: No
+Test Type: K
+Languages: English (USA),
+Job Levels: Mid-Professional, Professional Individual Contributor,
+Assessment Length: Approximate Completion Time in minutes = 10
+
+Description:
+Multi-choice test that measures the knowledge of Shell scripting to perform operations such as file manipulation, program execution and printing text.
+
+PDF Text:
+Shell Scripting
+Assessment Fact Sheet
+
+Overview
+
+Multi-choice test that measures the knowledge of Shell scripting to perform operations such as ﬁle 
+manipulation, program execution and printing text.
+
+Relevant Job Roles
+
+DevOps Engineer - Shell Scripting, Application Support 
+Engineer, Linux Administrator
+
+Details
+
+Language
+
+English (US)
+
+Average Testing Time (minutes)
+
+10
+
+minutes
+
+Allowed Time (minutes)
+
+15
+
+minutes
+
+Maximum Number of Questions
+
+15
+
+questions
+
+Number of Sittings
+
+One
+
+Test Type
+
+Sector
+
+Scores Reported
+
+Multiple Choice - CTT
+
+Information Technology
+
+• Overall Score 
+• Basics and Scheduling  
+• File & Directory Handling  
+• Patterns and Filters
+
+Knowledge, Skills, 
+Abilities And 
+Competencies 
+Measured
+
+O*NET Competency
+
+Programming
+
+The following areas are covered:
+
+• Scripting basics 
+• Shell functionalities 
+• Job and process scheduling 
+• Operators, variables, functions 
+• File processing and manipulations 
+• Directory manipulations 
+• Usage of expressions, commands and patterns 
+• Awk basics and usage 
+• Filters and ﬁlter functions
+
+© 2020 SHL and/or its affiliates. All rights reserved. | Page 1 of 1
+
+www.shl.com

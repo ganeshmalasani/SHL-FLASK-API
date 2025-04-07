@@ -1,0 +1,49 @@
+Title: Automata Selenium
+URL: https://www.shl.com/solutions/products/product-catalog/view/automata-selenium/
+
+Remote Testing: Yes
+Adaptive/IRT: No
+Test Type: S
+Languages: English (USA),
+Job Levels: Entry-Level, Graduate, Manager, Mid-Professional, Professional Individual Contributor,
+Assessment Length: Approximate Completion Time in minutes = 60
+
+Description:
+A coding simulation assessment that evaluates the ability to conduct tasks related to automation testing using Selenium scripts.
+
+PDF Text:
+Automata Selenium
+Assessment Fact Sheet
+
+Overview
+An AI-powered coding simulation assessment that evaluates candidate’s programming 
+ability in Selenium IDE.
+
+Relevant Job Roles ..............................................................  QA Automation Testing Engineer, 
+
+Software Testing Engineer, QA 
+Engineer, Performance Test 
+Architect, Performance Tester, 
+Software Engineer
+
+Details
+Language .............................................................................. English
+
+Average Testing Time (minutes) ........................................ 55 minutes
+
+Allowed Time (minutes) ...................................................... 60 minutes
+
+Maximum Number of Questions ...................................... 03 questions
+
+Number of Sittings .............................................................. One
+
+Test Type .............................................................................. Coding Simulation
+
+Sector ................................................................................... Information Technology
+
+Scores Reported ..................................................................  • Programming Practices 
+• Functional Correctness
+
+O*NET Competency ............................................................  Coding
+
+© 2022 SHL and its affiliates. All rights reserved.shl.com

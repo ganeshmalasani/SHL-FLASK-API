@@ -1,0 +1,108 @@
+Title: Data Warehousing Concepts
+URL: https://www.shl.com/solutions/products/product-catalog/view/data-warehousing-concepts/
+
+Remote Testing: Yes
+Adaptive/IRT: Yes
+Test Type: K
+Languages: English (USA),
+Job Levels: Mid-Professional, Professional Individual Contributor,
+Assessment Length: Approximate Completion Time in minutes = 25
+
+Description:
+The Data Warehousing Concepts test measures knowledge of Data Warehousing. Designed for experienced users, this test covers the following topics: Big Data and Data Warehouse Appliance, Business Considerations, Data Transformation, Data Warehousing and Data Marts, Design, Dimensional Data Model, On Line Analytical Processing (OLAP), Querying and Reporting/Data Extraction.
+
+PDF Text:
+Data Warehousing Concepts  
+
+Assessment Fact Sheet 
+
+Overview 
+
+The Data Warehousing Concepts test measures knowledge of Data Warehousing. Designed for 
+experienced users.  
+
+Job Family/Title 
+
+Database Administrators 
+
+Details 
+
+Average Testing Time (minutes) 
+
+Allowed Time (minutes) 
+
+25 minutes 
+
+90 minutes 
+
+Maximum Number of Questions 
+
+30 questions 
+
+Number of Sittings 
+
+Designed for Unproctored Environment 
+
+One 
+
+Yes 
+
+Question Format 
+
+Product Category 
+
+Multiple Choice - Adaptive 
+
+Information Technology 
+
+Knowledge, 
+Skills, Abilities 
+and 
+Competencies 
+Measured 
+
+The following areas are covered:  
+
+  Big Data and Data Warehouse Appliance  
+
+  Business Considerations  
+
+  Data Transformation  
+
+  Data Warehousing and Data Marts  
+
+  Design  
+
+  Dimensional Data Model  
+
+  On Line Analytical Processing (OLAP)  
+
+  Querying and Reporting/Data Extraction 
+
+© 2018 SHL and/or its affiliates. All rights reserved. | Page 1 of 2 
+
+www.shl.com 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Example 
+Questions 
+
+Example 
+Reports 
+
+© 2018 SHL and/or its affiliates. All rights reserved. | Page 2 of 2 
+
+www.shl.com

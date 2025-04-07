@@ -1,0 +1,94 @@
+Title: SAP Hybris (New)
+URL: https://www.shl.com/solutions/products/product-catalog/view/sap-hybris-new/
+
+Remote Testing: Yes
+Adaptive/IRT: No
+Test Type: K
+Languages: English (USA),
+Job Levels: Mid-Professional, Professional Individual Contributor,
+Assessment Length: Approximate Completion Time in minutes = 20
+
+Description:
+Multi-choice test that measures the knowledge of Hybris extensions, its architecture, configuration, data modelling and management, service layer programming, cockpit framework and workflows.
+
+PDF Text:
+SAP Hybris
+Assessment Fact Sheet
+
+Overview
+
+Multi-choice test that measures the knowledge of Hybris extensions, its architecture, conﬁguration, 
+data modelling and management, service layer programming, cockpit framework and workﬂows.
+
+Relevant Job Roles
+
+Hybris Developer, Application Developer - SAP Hybris, 
+Hybris Architect
+
+Details
+
+Language
+
+English (US)
+
+Average Testing Time (minutes)
+
+18
+
+minutes
+
+Allowed Time (minutes)
+
+30
+
+minutes
+
+Maximum Number of Questions
+
+25
+
+questions
+
+Number of Sittings
+
+One
+
+Test Type
+
+Sector
+
+Scores Reported
+
+Multiple Choice - CTT
+
+Information Technology
+
+• Overall Score 
+• Architecture and Extensions  
+• Data Modeling and Management 
+• Frameworks and Workﬂows
+
+O*NET Competency
+
+ERP Software
+
+Knowledge, Skills, 
+Abilities And 
+Competencies 
+Measured
+
+The following areas are covered:
+
+• SAP Hybris Architecture 
+• SAP Hybris environment setup 
+• SAP Hybris extension 
+• Type system and models 
+• Management console 
+• Import, export and Cron Job 
+• Accelerator module 
+• Service layer programming 
+• Cockpit framework
+
+© 2020 SHL and/or its affiliates. All rights reserved. | Page 1 of 1
+
+www.shl.com

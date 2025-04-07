@@ -1,0 +1,94 @@
+Title: UiPath RPA Development (New)
+URL: https://www.shl.com/solutions/products/product-catalog/view/uipath-rpa-development-new/
+
+Remote Testing: Yes
+Adaptive/IRT: No
+Test Type: K
+Languages: English (USA),
+Job Levels: Mid-Professional, Professional Individual Contributor,
+Assessment Length: Approximate Completion Time in minutes = 8
+
+Description:
+Multi-choice test that measures the knowledge on UiPath architecture, workflows recording, UI interaction, automation, and orchestrator.
+
+PDF Text:
+UiPath RPA Development
+Assessment Fact Sheet
+
+Overview
+
+Multi-choice test that measures the knowledge on UiPath architecture, workﬂows recording, UI 
+interaction, automation, and orchestrator.
+
+Relevant Job Roles
+
+RPA Developer - UiPath, Automation Engineer - UiPath, UI 
+Path Developer
+
+Details
+
+Language
+
+English (US)
+
+Average Testing Time (minutes)
+
+08
+
+minutes
+
+Allowed Time (minutes)
+
+15
+
+minutes
+
+Maximum Number of Questions
+
+12
+
+questions
+
+Number of Sittings
+
+One
+
+Test Type
+
+Sector
+
+Scores Reported
+
+Multiple Choice - CTT
+
+Information Technology
+
+• Overall Score 
+• Architecture, Workﬂows and Recording  
+• UI Interaction and Automation  
+• Orchestration and Exception Handling
+
+O*NET Competency
+
+Programming
+
+Knowledge, Skills, 
+Abilities And 
+Competencies 
+Measured
+
+The following areas are covered:
+
+• Installation 
+• Data table 
+• Data manipulation 
+• Input methods 
+• Screen and data scrapping 
+• Selectors 
+• Debugging and exception handling 
+• Project organization 
+• UiPath orchestration
+
+© 2020 SHL and/or its affiliates. All rights reserved. | Page 1 of 1
+
+www.shl.com

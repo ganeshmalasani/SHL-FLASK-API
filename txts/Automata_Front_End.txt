@@ -1,0 +1,51 @@
+Title: Automata Front End
+URL: https://www.shl.com/solutions/products/product-catalog/view/automata-front-end/
+
+Remote Testing: Yes
+Adaptive/IRT: No
+Test Type: S
+Languages: English (USA),
+Job Levels: Entry-Level, Graduate, Mid-Professional, Professional Individual Contributor, Manager,
+Assessment Length: Approximate Completion Time in minutes = 30 minutes
+
+Description:
+Simulation based test that measures the front-end development capabilities using HTML, CSS, and
+JavaScript. The candidate is provided with 3 different sections to code in HTML, CSS and JavaScript respectively and a separate output section to view the output. This simulation is then manually scored.
+
+PDF Text:
+Automata Frontend
+Assessment Fact Sheet
+
+Overview
+Simulation based test that measures the front-end development capabilities using HTML, 
+CSS, and JavaScript. The candidate is provided with 3 different sections to code in HTML, 
+CSS and Javascript respectively and a separate output section to view the output.
+
+Relevant Job Roles ..............................................................  Front-End Developer, Front-End 
+Engineer, Client-Side Developer/
+Engineer, CSS/HTML Developer, 
+Front-End Web Designer, Web/
+Front-EndUI Developer/Engineer, 
+Front- End SEO Expert, Front-End 
+Accessibility Expert
+
+Details
+Language .............................................................................. English
+
+Average Testing Time (minutes) ........................................ 27 minutes
+
+Allowed Time (minutes) ...................................................... 30 minutes
+
+Maximum Number of Questions ...................................... 02 questions
+
+Number of Sittings .............................................................. One
+
+Test Type .............................................................................. Simulation
+
+Sector ................................................................................... Technology
+
+Scores Reported .................................................................. Overall Score
+
+O*NET Competency ............................................................  Coding
+
+© 2022 SHL and its affiliates. All rights reserved.shl.com

@@ -1,0 +1,96 @@
+Title: Core Java (Advanced Level) (New)
+URL: https://www.shl.com/solutions/products/product-catalog/view/core-java-advanced-level-new/
+
+Remote Testing: Yes
+Adaptive/IRT: No
+Test Type: K
+Languages: English (USA),
+Job Levels: Mid-Professional, Professional Individual Contributor,
+Assessment Length: Approximate Completion Time in minutes = 13
+
+Description:
+Multi-choice test that measures the knowledge of basic Java constructs, OOP concepts, files and exception handling, and advanced Java concepts like generics, collections, threads, strings and concurrency.
+
+PDF Text:
+Core Java (Advanced Level)
+Assessment Fact Sheet
+
+Overview
+
+Multi-choice test that measures the knowledge of basic Java constructs, OOP concepts, ﬁles and 
+exception handling, and advanced Java concepts like generics, collections, threads, strings and 
+concurrency.
+
+Relevant Job Roles
+
+Java Architect, Backend Development Engineer, Software 
+Developer, Backend Developer, Android Developer
+
+Details
+
+Language
+
+English (US)
+
+Average Testing Time (minutes)
+
+13
+
+minutes
+
+Allowed Time (minutes)
+
+15
+
+minutes
+
+Maximum Number of Questions
+
+12
+
+questions
+
+Number of Sittings
+
+One
+
+Test Type
+
+Sector
+
+Scores Reported
+
+Multiple Choice - CTT
+
+Information Technology
+
+• Overall Score 
+• Basic Java  
+• OOPS Concepts  
+• Advanced Java
+
+O*NET Competency
+
+Programming
+
+Knowledge, Skills, 
+Abilities And 
+Competencies 
+Measured
+
+The following areas are covered:
+
+• Data types and strings  
+• Arrays  
+• Collections and generics 
+• OOPS concepts  
+• Inner class  
+• Interfaces  
+• Files and streams  
+• Exception handling  
+• Threads  
+• Concurrency 
+
+© 2020 SHL and/or its affiliates. All rights reserved. | Page 1 of 1
+
+www.shl.com

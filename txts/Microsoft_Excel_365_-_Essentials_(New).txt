@@ -1,0 +1,97 @@
+Title: Microsoft Excel 365 - Essentials (New)
+URL: https://www.shl.com/solutions/products/product-catalog/view/microsoft-excel-365-essentials-new/
+
+Remote Testing: Yes
+Adaptive/IRT: No
+Test Type: K, S
+Languages: English (USA),
+Job Levels: Entry-Level,
+Assessment Length: Approximate Completion Time in minutes = 30
+
+Description:
+The Microsoft Excel 365 - Essentials simulation evaluates ability to perform certain operations in a simulated environment of MS Excel, and includes the following topics: Applying Formulas and Functions, Creating and Analyzing Data, Formatting Cells, Data, and Content, Managing Workbooks and Worksheets, Presenting Data Visually, Printing and Views, and Sharing, Maintaining, and Securing Workbooks.
+
+PDF Text:
+Microsoft Excel 365 - Essentials
+Assessment Fact Sheet
+
+Overview
+
+The Microsoft Excel 365 – Essentials simulation evaluates experience in sorting and ﬁltering data, 
+creating and applying simple functions and formulas, modifying cell formatting and content, viewing 
+and printing workbooks, managing workbooks and worksheets, adding headers, footers and page 
+breaks, creating and labeling charts and pivot tables, setting a print area, securing and sharing 
+workbooks, and presenting data in diﬀerent visual models. It consists of the 20 most important and 
+frequently performed tasks.
+
+Relevant Job Roles
+
+Administrative Services Manager, Sales Manager, General 
+and Operations Manager, Marketing Manager, Business 
+Analyst, Consultant
+
+Details
+
+Language
+
+English (US)
+
+Average Testing Time (minutes)
+
+15
+
+minutes
+
+Allowed Time (minutes)
+
+25
+
+minutes
+
+Maximum Number of Questions
+
+20
+
+questions
+
+Number of Sittings
+
+One
+
+Test Type
+
+Sector
+
+Scores Reported
+
+Simulation
+
+Software Skills
+
+• Overall Score 
+• Applying Formulas and Functions 
+• Creating and Analyzing Data 
+• Formatting Cells, Data, and Content 
+• Managing Workbooks and Worksheets 
+• Presenting Data Visually 
+• Printing and Views
+
+O*NET Competency
+
+Spreadsheet Software
+
+Knowledge, Skills, 
+Abilities And 
+Competencies 
+Measured
+
+The following areas are covered:
+
+• Basic text and cell formatting 
+• Data tables 
+• Using functions and formulas 
+• Printing an excel workbook 
+
+© 2020 SHL and/or its affiliates. All rights reserved. | Page 1 of 1
+
+www.shl.com

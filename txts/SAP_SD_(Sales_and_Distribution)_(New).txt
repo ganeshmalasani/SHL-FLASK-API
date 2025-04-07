@@ -1,0 +1,15 @@
+Title: SAP SD (Sales and Distribution) (New)
+URL: https://www.shl.com/solutions/products/product-catalog/view/sap-sd-sales-and-distribution-new/
+
+Remote Testing: Yes
+Adaptive/IRT: No
+Test Type: K
+Languages: English (USA),
+Job Levels: Mid-Professional, Professional Individual Contributor,
+Assessment Length: Approximate Completion Time in minutes = 8
+
+Description:
+Multi-choice test that measures the knowledge of ERP basics, SAP architecture, sales, distribution, master data, documents, basic functions in S&D, billing process, order and delivery processing.
+
+PDF Text:
+

@@ -1,0 +1,20 @@
+Title: Smart Interview Live
+URL: https://www.shl.com/solutions/products/product-catalog/view/smart-interview-live/
+
+Remote Testing: Yes
+Adaptive/IRT: No
+Test Type: P
+Languages: English (USA),
+Job Levels: Entry-Level, Front Line Manager, General Population, Graduate, Manager, Mid-Professional, Professional Individual Contributor, Supervisor,
+Assessment Length: Approximate Completion Time in minutes = Variable
+
+Description:
+SHL Live Video Interview is a real-time video interview tool. It allows recruiters and line managers to remotely engage with candidates and reach hiring decisions faster. 
+Delight shortlisted candidates with a face2face digital interview that goes way beyond a conference call. Interact with whiteboards, instant file-sharing, draw from an expertly-curated question bank and provide a remote end-to-end interview experience that increases your chance of conversion. 
+ 
+Language Availability
+The Candidate and Assessor interface is available in US English, Japanese, Simplified Chinese, Castilian Spanish, Portuguese, Brazilian Portuguese, French, Canadian French, Italian, Dutch, Latin American Spanish, Romanian, Indonesian, German, Arabic, Greek. 
+The Admin interface is available in US English and Simplified Chinese (CN server).
+
+PDF Text:
+

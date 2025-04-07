@@ -1,0 +1,95 @@
+Title: Oracle DBA (Advanced Level) (New)
+URL: https://www.shl.com/solutions/products/product-catalog/view/oracle-dba-advanced-level-new/
+
+Remote Testing: Yes
+Adaptive/IRT: No
+Test Type: K
+Languages: English (USA),
+Job Levels: Mid-Professional, Professional Individual Contributor,
+Assessment Length: Approximate Completion Time in minutes = 12
+
+Description:
+Multi-choice test that measures the knowledge of Oracle DB architecture, backup and recovery, MySQL administration and advanced topics such as network configuration and data warehouse management.
+
+PDF Text:
+Oracle DBA (Advanced Level)
+Assessment Fact Sheet
+
+Overview
+
+Multi-choice test that measures the knowledge of Oracle DB architecture, backup and recovery, 
+MySQL administration and advanced topics such as network conﬁguration and data warehouse 
+management.
+
+Relevant Job Roles
+
+Oracle Database Administrator, Software Developer
+
+Details
+
+Language
+
+English (US)
+
+Average Testing Time (minutes)
+
+12
+
+minutes
+
+Allowed Time (minutes)
+
+15
+
+minutes
+
+Maximum Number of Questions
+
+12
+
+questions
+
+Number of Sittings
+
+One
+
+Test Type
+
+Sector
+
+Scores Reported
+
+Multiple Choice - CTT
+
+Information Technology
+
+• Overall Score 
+• Architecture and Administration  
+• Backup and Recovery  
+• Oracle Scheduler and Networking
+
+O*NET Competency
+
+Database User Interface and Query Software
+
+Knowledge, Skills, 
+Abilities And 
+Competencies 
+Measured
+
+The following areas are covered:
+
+• Oracle DB architecture 
+• ASM and setting up of Oracle DB 
+• DB management and administration 
+• Backup and recovery without RMAN 
+• Backup and recovery with RMAN 
+• Flashback technology 
+• Data movement and guard 
+• Data warehouse management 
+• Oracle scheduler 
+• Network conﬁguration
+
+© 2020 SHL and/or its affiliates. All rights reserved. | Page 1 of 1
+
+www.shl.com

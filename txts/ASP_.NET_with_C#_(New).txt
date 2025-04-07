@@ -1,0 +1,98 @@
+Title: ASP .NET with C# (New)
+URL: https://www.shl.com/solutions/products/product-catalog/view/asp-net-with-c-new/
+
+Remote Testing: Yes
+Adaptive/IRT: No
+Test Type: K
+Languages: English (USA),
+Job Levels: Mid-Professional, Professional Individual Contributor,
+Assessment Length: Approximate Completion Time in minutes = 13
+
+Description:
+Multi-choice test that measures the knowledge of .NET framework and controls, C# fundamentals, OOPs concepts and advanced topics such as data access components, state management and security services.
+
+PDF Text:
+ASP.NET with C#
+Assessment Fact Sheet
+
+Overview
+
+Multi-choice test that measures the knowledge of .NET framework and controls, C# fundamentals, 
+OOPs concepts and advanced topics such as data access components, state management and 
+security services.
+
+Relevant Job Roles
+
+ASP.Net Developer, Software Developer, Software 
+Engineer, Application Developer
+
+Details
+
+Language
+
+English (US)
+
+Average Testing Time (minutes)
+
+13
+
+minutes
+
+Allowed Time (minutes)
+
+15
+
+minutes
+
+Maximum Number of Questions
+
+26
+
+questions
+
+Number of Sittings
+
+One
+
+Test Type
+
+Sector
+
+Scores Reported
+
+Multiple Choice - CTT
+
+Information Technology
+
+• Overall Score 
+• C# Fundamentals  
+• .NET Framework and Controls  
+• Advanced ASP.NET
+
+O*NET Competency
+
+Programming
+
+The following areas are covered:
+
+• Basic programming structure 
+• OOPs concepts 
+• Delegates and event handling 
+• Error & exception handling 
+• Indexer and properties 
+• .NET framework architecture 
+• Basic components of .NET 
+• Navigation controls 
+• Rich and other controls 
+• Web form fundamentals, basic web usage, and validation controls 
+• Data access components and state management 
+• Security and N/W services
+
+Knowledge, Skills, 
+Abilities And 
+Competencies 
+Measured
+
+© 2020 SHL and/or its affiliates. All rights reserved. | Page 1 of 1
+
+www.shl.com

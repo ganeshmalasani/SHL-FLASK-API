@@ -1,0 +1,90 @@
+Title: .NET XAML (New)
+URL: https://www.shl.com/solutions/products/product-catalog/view/net-xaml-new/
+
+Remote Testing: Yes
+Adaptive/IRT: No
+Test Type: K
+Languages: English (USA),
+Job Levels: Mid-Professional, Professional Individual Contributor,
+Assessment Length: Approximate Completion Time in minutes = 5
+
+Description:
+Multi-choice test that measures the knowledge of XAML triggers, data binding, custom controls and layouts.
+
+PDF Text:
+.NET XAML
+Assessment Fact Sheet
+
+Overview
+
+Multi-choice test that measures the knowledge of XAML triggers, data binding, custom controls and 
+layouts.
+
+Relevant Job Roles
+
+.Net Developer, Software Developer, Software Engineer, 
+Application Developer, Technical Architect, Full Stack 
+Developer
+
+Details
+
+Language
+
+English (US)
+
+Average Testing Time (minutes)
+
+05
+
+minutes
+
+Allowed Time (minutes)
+
+07
+
+minutes
+
+Maximum Number of Questions
+
+07
+
+questions
+
+Number of Sittings
+
+One
+
+Test Type
+
+Sector
+
+Multiple Choice - CTT
+
+Information Technology
+
+Scores Reported
+
+• Overall Score 
+
+Knowledge, Skills, 
+Abilities And 
+Competencies 
+Measured
+
+O*NET Competency
+
+Programming
+
+The following areas are covered:
+
+• Namespaces 
+• Extensions and tags 
+• Resources 
+• Layouts 
+• Controls 
+• Event handlers 
+• Triggers
+
+© 2020 SHL and/or its affiliates. All rights reserved. | Page 1 of 1
+
+www.shl.com
